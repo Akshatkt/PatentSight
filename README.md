@@ -8,7 +8,6 @@
 
 ## 📊 System Architecture
 
-```mermaid
 flowchart TD
     A[User Input: Research Area & Model] --> B[Main Script: agentic_rag.py]
     B --> C[Check Ollama & OpenSearch]
