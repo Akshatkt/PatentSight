@@ -1,0 +1,3798 @@
+{
+  "search_metadata": {
+    "id": "6867ae64895d90089baab8f9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/582443db814f4fb4/6867ae64895d90089baab8f9.json",
+    "created_at": "2025-07-04 10:35:16 UTC",
+    "processed_at": "2025-07-04 10:35:16 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20100119956A1/en",
+    "raw_html_file": "https://serpapi.com/searches/582443db814f4fb4/6867ae64895d90089baab8f9.html",
+    "total_time_taken": 1.26
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20100119956A1/en"
+  },
+  "title": "Nonaqueous electrolyte for secondary battery and nonaqueous-electrolyte secondary battery employing the same",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/f5/99/cb/b047d374e8dbd4/US20100119956A1.pdf",
+  "publication_number": "US20100119956A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "carbonate",
+    "nonaqueous",
+    "nonaqueous electrolyte",
+    "electrolyte",
+    "group"
+  ],
+  "prior_art_date": "2007-04-05",
+  "application_number": "US12/594,513",
+  "inventors": [
+    {
+      "name": "Hiroyuki Tokuda",
+      "link": "https://patents.google.com/?inventor=Hiroyuki+Tokuda",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hiroyuki+Tokuda"
+    },
+    {
+      "name": "Takashi Fujii",
+      "link": "https://patents.google.com/?inventor=Takashi+Fujii",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Takashi+Fujii"
+    },
+    {
+      "name": "Minoru Kotato",
+      "link": "https://patents.google.com/?inventor=Minoru+Kotato",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Minoru+Kotato"
+    },
+    {
+      "name": "Masahiro Takehara",
+      "link": "https://patents.google.com/?inventor=Masahiro+Takehara",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Masahiro+Takehara"
+    },
+    {
+      "name": "Masamichi Onuki",
+      "link": "https://patents.google.com/?inventor=Masamichi+Onuki",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Masamichi+Onuki"
+    },
+    {
+      "name": "Youichi Ohashi",
+      "link": "https://patents.google.com/?inventor=Youichi+Ohashi",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Youichi+Ohashi"
+    },
+    {
+      "name": "Shinichi Kinoshita",
+      "link": "https://patents.google.com/?inventor=Shinichi+Kinoshita",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Shinichi+Kinoshita"
+    }
+  ],
+  "assignees": [
+    "Mitsubishi Chemical Corp",
+    "MU Ionic Solutions Corp"
+  ],
+  "priority_date": "2007-04-05",
+  "filing_date": "2008-04-04",
+  "publication_date": "2010-05-13",
+  "worldwide_applications": {
+    "2008": [
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020227031774A",
+        "document_id": "patent/KR102561875B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "EP",
+        "application_number": "EP13156071.6A",
+        "document_id": "patent/EP2597717B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "EP",
+        "application_number": "EP11188812.9A",
+        "document_id": "patent/EP2418723B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020147036628A",
+        "document_id": "patent/KR20150011013A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "US",
+        "application_number": "US12/594,513",
+        "document_id": "patent/US9281541B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020177007940A",
+        "document_id": "patent/KR101844201B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "CN",
+        "application_number": "CN202211724438.5A",
+        "document_id": "patent/CN115911573A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "EP",
+        "application_number": "EP08739909.3A",
+        "document_id": "patent/EP2144321B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "EP",
+        "application_number": "EP11169896.5A",
+        "document_id": "patent/EP2378602B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020157019150A",
+        "document_id": "patent/KR20150088910A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "EP",
+        "application_number": "EP12153834.2A",
+        "document_id": "patent/EP2450997B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020157033663A",
+        "document_id": "patent/KR20150140855A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020157008813A",
+        "document_id": "patent/KR20150043551A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "CN",
+        "application_number": "CN201610011878.4A",
+        "document_id": "patent/CN105633345B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020097020547A",
+        "document_id": "patent/KR20100014725A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "EP",
+        "application_number": "EP15166034.7A",
+        "document_id": "patent/EP2940779B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "CN",
+        "application_number": "CN201510207936.6A",
+        "document_id": "patent/CN104868157A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Withdrawn"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020187008256A",
+        "document_id": "patent/KR102305621B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "CN",
+        "application_number": "CN2012100593050A",
+        "document_id": "patent/CN102544585A/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "CN",
+        "application_number": "CN201210059236.3A",
+        "document_id": "patent/CN102569893B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020247017947A",
+        "document_id": "patent/KR20240091182A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020237025319A",
+        "document_id": "patent/KR20230116958A/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Ceased"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020207015576A",
+        "document_id": "patent/KR102522750B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "WO",
+        "application_number": "PCT/JP2008/056803",
+        "document_id": "patent/WO2008126800A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "2008-04-04",
+        "country_code": "KR",
+        "application_number": "KR1020197000239A",
+        "document_id": "patent/KR102388002B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2012": [
+      {
+        "filing_date": "2012-09-14",
+        "country_code": "US",
+        "application_number": "US13/619,147",
+        "document_id": "patent/US9093716B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2013": [
+      {
+        "filing_date": "2013-03-18",
+        "country_code": "US",
+        "application_number": "US13/846,254",
+        "document_id": "patent/US9853326B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2013-08-26",
+        "country_code": "US",
+        "application_number": "US13/975,736",
+        "document_id": "patent/US9590270B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2015": [
+      {
+        "filing_date": "2015-09-09",
+        "country_code": "US",
+        "application_number": "US14/849,119",
+        "document_id": "patent/US10468720B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2019": [
+      {
+        "filing_date": "2019-05-29",
+        "country_code": "US",
+        "application_number": "US16/424,868",
+        "document_id": "patent/US11616253B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2019-09-05",
+        "country_code": "US",
+        "application_number": "US16/561,149",
+        "document_id": "patent/US11367899B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2022": [
+      {
+        "filing_date": "2022-05-13",
+        "country_code": "US",
+        "application_number": "US17/743,567",
+        "document_id": "patent/US20220278370A1/en",
+        "legal_status_cat": "not_active",
+        "legal_status": "Abandoned"
+      }
+    ],
+    "2024": [
+      {
+        "filing_date": "2024-04-25",
+        "country_code": "US",
+        "application_number": "US18/645,553",
+        "document_id": "patent/US20240297344A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Pending"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2007-04-05",
+      "title": "Priority claimed from JP2007099274A",
+      "type": "external-priority",
+      "document_id": "patent/JP2008258013A/en"
+    },
+    {
+      "date": "2007-04-20",
+      "title": "Priority claimed from JP2007111931A",
+      "type": "external-priority",
+      "document_id": "patent/JP2008269979A/en"
+    },
+    {
+      "date": "2007-04-20",
+      "title": "Priority claimed from JP2007111961A",
+      "type": "external-priority",
+      "document_id": "patent/JP5374827B2/en"
+    },
+    {
+      "date": "2007-04-26",
+      "title": "Priority claimed from JP2007116445A",
+      "type": "external-priority",
+      "document_id": "patent/JP5268016B2/en"
+    },
+    {
+      "date": "2007-04-26",
+      "title": "Priority claimed from JP2007116442A",
+      "type": "external-priority",
+      "document_id": "patent/JP5628469B2/en"
+    },
+    {
+      "date": "2007-04-26",
+      "title": "Priority claimed from JP2007116450A",
+      "type": "external-priority",
+      "document_id": "patent/JP5418955B2/en"
+    },
+    {
+      "date": "2008-04-04",
+      "title": "Application filed by Mitsubishi Chemical Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Mitsubishi Chemical Corp"
+    },
+    {
+      "date": "2010-01-20",
+      "title": "Assigned to MITSUBISHI CHEMICAL CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI CHEMICAL CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: FUJII, TAKASHI, KINOSHITA, SHINICHI, KOTATO, MINORU, OHASHI, YOUICHI, ONUKI, MASAMICHI, TAKEHARA, MASAHIRO, TOKUDA, HIROYUKI"
+      ]
+    },
+    {
+      "date": "2010-05-13",
+      "title": "Publication of US20100119956A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20100119956A1/en"
+    },
+    {
+      "date": "2016-03-08",
+      "title": "Publication of US9281541B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US9281541B2/en"
+    },
+    {
+      "date": "2016-03-08",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2017-09-04",
+      "title": "Assigned to MITSUBISHI RAYON CO., LTD.",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI RAYON CO., LTD.",
+      "description": [
+        "MERGER (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MITSUBISHI CHEMICAL CORPORATION"
+      ]
+    },
+    {
+      "date": "2017-09-05",
+      "title": "Assigned to MITSUBISHI CHEMICAL CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI CHEMICAL CORPORATION",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MITSUBISHI RAYON CO., LTD."
+      ]
+    },
+    {
+      "date": "2020-12-10",
+      "title": "Assigned to MU IONIC SOLUTIONS CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MU IONIC SOLUTIONS CORPORATION",
+      "description": [
+        "SPLIT ASSIGNMENT",
+        "Assignors: MITSUBISHI CHEMICAL CORPORATION"
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "title": "Assigned to MITSUBISHI CHEMICAL CORPORATION, MU IONIC SOLUTIONS CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI CHEMICAL CORPORATION",
+      "description": [
+        "CORRECTIVE ASSIGNMENT TO CORRECT THE SPLIT ASSIGNEE INFORMATION PREVIOUSLY RECORDED AT REEL: 054678 FRAME: 0763. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT.",
+        "Assignors: MITSUBISHI CHEMICAL CORPORATION"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2030-10-15",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20100119956.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/12594513"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20100119956"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2010119956A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/12594513/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20100119956"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M10/0567",
+      "description": "Liquid materials characterised by the additives",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/134",
+      "description": "Electrodes based on metals, Si or alloys",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/052",
+      "description": "Li-accumulators",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/056",
+      "description": "Accumulators with non-aqueous electrolyte characterised by the materials used as electrolytes, e.g. mixed inorganic/organic electrolytes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0569",
+      "description": "Liquid materials characterised by the solvents",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/133",
+      "description": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/38",
+      "description": "Selection of substances as active materials, active masses, active liquids of elements or alloys",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/587",
+      "description": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx for inserting or intercalating light metals",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0025",
+      "description": "Organic electrolyte",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0031",
+      "description": "Chlorinated solvents",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/0034",
+      "description": "Fluorinated solvents",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/004",
+      "description": "Three solvents",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "An object is to provide a nonaqueous electrolyte and a nonaqueous-electrolyte secondary battery which have excellent discharge load characteristics and are excellent in high-temperature storability, cycle characteristics, high capacity, continuous-charge characteristics, storability, gas evolution inhibition during continuous charge, high-current-density charge/discharge characteristics, discharge load characteristics, etc. The object has been accomplished with a nonaqueous electrolyte which comprises: a monofluorophosphate and/or a difluorophosphate; and further a compound having a specific chemical structure or specific properties.",
+  "description_link": "https://serpapi.com/searches/6867ae64895d90089baab8f9/google_patents_details/description.html",
+  "claims": [
+    "1. A nonaqueous electrolyte for use in a nonaqueous-electrolyte secondary battery comprising a negative electrode and a positive electrode which are capable of occluding and releasing ions and a nonaqueous electrolyte, the nonaqueous electrolyte comprising an electrolyte and a nonaqueous solvent, wherein the nonaqueous solvent comprises: a carbonate having a halogen atom; and a monofluorophosphate and/or a difluorophosphate.",
+    "2. The nonaqueous electrolyte according to claim 1, wherein the carbonate having a halogen atom is a cyclic carbonate.",
+    "3. The nonaqueous electrolyte according to claim 1 or claim 2, wherein the carbonate having a halogen atom is at least one compound selected from the group consisting of fluoroethylene carbonate, 4,4-difluoroethylene carbonate, 4,5-difluoroethylene carbonate, 4-fluoro-4-methylethylene carbonate, 4-fluoro-5-methylethylene carbonate, 4-(fluoromethyl)-ethylene carbonate, and 4-(trifluoromethyl)-ethylene carbonate.",
+    "4. The nonaqueous electrolyte according to claim 1, wherein the carbonate having a halogen atom is an acyclic carbonate.",
+    "5. The nonaqueous electrolyte according to claim 1 or claim 4, wherein the carbonate having a halogen atom is at least one compound selected from the group consisting of fluoromethyl methyl carbonate, bis(fluoromethyl) carbonate, difluoromethyl methyl carbonate, 2,2-difluoroethyl methyl carbonate, ethyl-(2,2-difluoroethyl) carbonate, bis(2,2-difluoroethyl) carbonate, 2,2,2-trifluoroethyl methyl carbonate, ethyl 2,2,2-trifluoroethyl carbonate, and bis(2,2,2-trifluoroethyl) carbonate.",
+    "6. The nonaqueous electrolyte according to any one of claim 1 to claim 5, wherein the carbonate having a halogen atom is contained in a proportion of from 0.001% by mass to 100% by mass based on the whole nonaqueous solvent.",
+    "7. The nonaqueous electrolyte according to any one of claim 1 to claim 6, wherein the carbonate having a halogen atom is contained in a proportion of from 0.001% by mass to 10% by mass based on the whole nonaqueous solvent.",
+    "8. The nonaqueous electrolyte according to any one of claim 1 to claim 7, wherein the monofluorophosphate and/or difluorophosphate is contained in a total amount of from 0.001% by mass to 5% by mass based on the whole nonaqueous electrolyte.",
+    "9. A nonaqueous electrolyte mainly comprising an electrolyte and a nonaqueous solvent dissolving the electrolyte, the nonaqueous electrolyte comprising: a compound which is liquid at 25\u00b0 C., has a permittivity of 5 or higher and a coefficient of viscosity of 0.6 cP or lower, and has a group constituting a heteroelement-containing framework (excluding carbonyl group); and further a monofluorophosphate and/or a difluorophosphate.",
+    "10. The nonaqueous electrolyte according to claim 9, wherein the compound which is liquid at 25\u00b0 C., has a permittivity of 5 or higher and a coefficient of viscosity of 0.6 cP or lower, and has a group constituting a heteroelement-containing framework (excluding carbonyl group) is a compound having an ether framework and/or a nitrile framework.",
+    "11. The nonaqueous electrolyte according to claim 9 or claim 10, wherein the compound which is liquid at 25\u00b0 C., has a permittivity of 5 or higher and a coefficient of viscosity of 0.6 cP or lower, and has a group constituting a heteroelement-containing framework (excluding carbonyl group), has a halogen substituent and/or a saturated aliphatic hydrocarbon substituent having no substituent other than halogen atoms.",
+    "12. The nonaqueous electrolyte according to any one of claim 9 to claim 11, wherein the monofluorophosphate and/or difluorophosphate is contained in a total amount of from 0.001% by mass to 5% by mass based on the whole nonaqueous electrolyte.",
+    "13. The nonaqueous electrolyte according to any one of claim 1 to claim 12, which is for use in a nonaqueous-electrolyte secondary battery having a negative electrode comprising an active material including a carbonaceous material.",
+    "14. The nonaqueous electrolyte according to any one of claim 1 to claim 12, which is for use in a nonaqueous-electrolyte secondary battery having a negative electrode comprising an active material having at least one kind of atom selected from the group consisting of a silicon atom, a tin atom, and a lead atom.",
+    "15. A nonaqueous electrolyte mainly comprising an electrolyte and a nonaqueous solvent dissolving the electrolyte, the nonaqueous electrolyte comprising: a monofluorophosphate and/or a difluorophosphate; and further at least one compound selected from the group consisting of compounds represented by the following general formula (1), nitrile compounds, isocyanate compounds, phosphazene compounds, disulfonic acid ester compounds, sulfide compounds, disulfide compounds, acid anhydrides, lactone compounds having a substituent in the \u03b1-position, and compounds having a carbon-carbon triple bond:\n    \n      \n        \n        \n           \n           \n        \n      \n    \n    [wherein R1, R2, and R3 each independently represent a fluorine atom, an alkyl group which has 1-12 carbon atoms and may be substituted with a fluorine atom, or an alkoxy group which has 1-12 carbon atoms and may be substituted with a fluorine atom].",
+    "16. The nonaqueous electrolyte according to claim 15, wherein the total content of the monofluorophosphate and/or difluorophosphate is from 0.01% by weight to 5% by weight based on the whole nonaqueous electrolyte.",
+    "17. The nonaqueous electrolyte according to claim 15 or claim 16, wherein the total content of the at least one compound selected from the group consisting of compounds represented by general formula (1), nitrile compounds, isocyanate compounds, phosphazene compounds, disulfonic acid ester compounds, sulfide compounds, disulfide compounds, acid anhydrides, lactone compounds having a substituent in the \u03b1-position, and compounds having a carbon-carbon triple bond is from 0.01% by mass to 25% by mass based on the whole nonaqueous electrolyte.",
+    "18. A nonaqueous electrolyte comprising an electrolyte and a nonaqueous solvent dissolved the electrolyte, the nonaqueous electrolyte comprising: a cyclic sulfone compound in an amount of 10-70% by volume based on the whole nonaqueous solvent; a compound having a coefficient of viscosity at 25\u00b0 C. of 1.5 mPa\u00b7s or lower; and further at least one compound selected from the group consisting of carbonates having an unsaturated bond, carbonates having a halogen atom, monofluorophosphates, and difluorophosphates.",
+    "19. The nonaqueous electrolyte according to claim 18, wherein the cyclic sulfone compound is sulfolane and/or a sulfolane derivative.",
+    "20. The nonaqueous electrolyte according to claim 18 or claim 19, wherein the compound having a coefficient of viscosity at 25\u00b0 C. of 1.5 mPa\u00b7s or lower is at least one compound selected from the group consisting of acyclic carbonates, acyclic carboxylic acid esters, acyclic ethers, and cyclic ethers.",
+    "21. The nonaqueous electrolyte according to any one of claim 18 to claim 20, wherein the compound having a coefficient of viscosity at 25\u00b0 C. of 1.5 mPa\u00b7s or lower is at least one compound selected from the group consisting of dimethyl carbonate, diethyl carbonate, ethyl methyl carbonate, methyl acetate, methyl propionate, methyl butyrate, and 1,2-dimethoxyethane.",
+    "22. The nonaqueous electrolyte according to any one of claim 18 to claim 21, wherein the content of the compound having a coefficient of viscosity at 25\u00b0 C. of 1.5 mPa\u00b7s or lower is 30-90% by volume based on the whole nonaqueous solvent in the nonaqueous electrolyte.",
+    "23. The nonaqueous electrolyte according to any one of claim 18 to claim 22, wherein the carbonates having an unsaturated bond are vinylene carbonate or vinylethylene carbonate.",
+    "24. The nonaqueous electrolyte according to any one of claim 18 to claim 23, wherein the carbonates having a halogen atom are at least one compound selected from the group consisting of fluorinated ethylene carbonates, fluorinated dimethyl carbonates, fluorinated diethyl carbonates, and fluorinated ethyl methyl carbonates.",
+    "25. The nonaqueous electrolyte according to any one of claim 18 to claim 24, wherein the content of the at least one compound selected from the group consisting of carbonates having an unsaturated bond, carbonates having a halogen atom, monofluorophosphates, and difluorophosphates is 0.001-8% by mass based on the whole nonaqueous electrolyte.",
+    "26. A nonaqueous electrolyte comprising a lithium salt and a nonaqueous organic solvent dissolving the lithium salt, wherein the nonaqueous organic solvent comprises: a cyclic polyamine compound and/or a cyclic polyamide compound; and further at least one compound selected from the group consisting of unsaturated carbonates, fluorine-containing carbonates, monofluorophosphates, and difluorophosphates.",
+    "27. A nonaqueous electrolyte comprising a lithium salt and a nonaqueous organic solvent dissolving the lithium salt, wherein the nonaqueous organic solvent comprises: a cyclic polyamine compound; and further a cyclic carbonate in an amount of from 5% by mass to 40% by mass based on the whole nonaqueous organic solvent.",
+    "28. A nonaqueous electrolyte comprising a lithium salt and a nonaqueous organic solvent dissolving the lithium salt, wherein the nonaqueous organic solvent contains a cyclic polyamide compound.",
+    "29. The nonaqueous electrolyte according to any one of claim 26 to claim 28, which comprises at least one cyclic carbonate selected from the group consisting of ethylene carbonate, fluoroethylene carbonate, difluoroethylene carbonate, propylene carbonate, and butylene carbonate.",
+    "30. The nonaqueous electrolyte according to any one of claim 26, claim 27, and claim 29, wherein the cyclic polyamine compound is at least one compound selected from the group consisting of 1,4,7-triazacyclononane, 1,5,9-triazacyclododecane, 1,4,7,10-tetraazacyclododecane, 1,4,8,11-tetraazacyclotetradecane, and 1,4,8,11-tetramethyl-1,4,8,11-tetraazacyclotetradecane.",
+    "31. The nonaqueous electrolyte according to any one of claim 26, claim 28, and claim 29, wherein the cyclic polyamide compound is at least one compound selected from the group consisting of 1,4,7,10-tetraazacyclotridecane-11,13-dione, 1,4,8,11-tetraazacyclotetradecane-5,7-dione, 1,4,8,12-tetraazacyclopentadecane-9,11-dione, and cyclo(\u03b2-alanylglycyl-\u03b2-alanylglycyl).",
+    "32. The nonaqueous electrolyte according to any one of claim 26 to claim 31, wherein the cyclic polyamine compound and/or cyclic polyamide compound is contained in an amount of from 0.001% by mass to 5% by mass based on the whole nonaqueous electrolyte.",
+    "33. A nonaqueous electrolyte mainly comprising an electrolyte and a nonaqueous solvent dissolving the electrolyte, the nonaqueous electrolyte comprising: at least one cyclic disulfonylimide salt represented by the following general formula (1); and further a monofluorophosphate and/or a difluorophosphate:\n    \n      \n        \n        \n           \n           \n        \n      \n    \n    [wherein R represents an alkylene group which has 1-12 carbon atoms and may be substituted with an alkyl group, and the alkyl group and the alkylene group may be further substituted with a fluorine atom; n is an integer of 1 to 3; and M is one or more metals selected from Group 1, Group 2, and Group 13 of the periodic table or a quaternary onium].",
+    "34. The nonaqueous electrolyte according to claim 33, wherein the cyclic disulfonylimide salt represented by general formula (1) is contained in a concentration of 0.001-0.5 mol/L based on the whole nonaqueous electrolyte.",
+    "35. The nonaqueous electrolyte according to claim 33 or claim 34, wherein the cyclic disulfonylimide salt represented by general formula (1) is a lithium salt.",
+    "36. The nonaqueous electrolyte according to any one of claim 33 to claim 35, wherein the monofluorophosphate and difluorophosphate are contained in a total concentration of from 0.001% by mass to 5% by mass based on the whole nonaqueous electrolyte.",
+    "37. The nonaqueous electrolyte according to any one of claim 33 to claim 36, which is for use in a nonaqueous-electrolyte secondary battery having a negative electrode employing an active material including a carbonaceous material.",
+    "38. The nonaqueous electrolyte according to any one of claim 33 to claim 36, which is for use in a nonaqueous-electrolyte secondary battery having a negative electrode employing an active material having at least one kind of atom selected from the group consisting of a silicon atom, a tin atom, and a lead atom.",
+    "39. A nonaqueous-electrolyte secondary battery comprising: a negative electrode and a positive electrode which are capable of occluding/releasing lithium ions; and a nonaqueous electrolyte, wherein the nonaqueous electrolyte is the nonaqueous electrolyte according to any one of claim 1 to claim 38.",
+    "40. The nonaqueous-electrolyte secondary battery according to claim 39, wherein the negative electrode includes a carbonaceous material.",
+    "41. The nonaqueous-electrolyte secondary battery according to claim 39, wherein the negative electrode includes a negative-electrode active material having at least one kind of atom selected from the group consisting of a silicon atom, a tin atom, and a lead atom."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US13/619,147",
+      "relation_type": "Division",
+      "representative_publication": "US9093716B2",
+      "primary_language": "en",
+      "priority_date": "2007-04-05",
+      "filing_date": "2012-09-14",
+      "title": "Nonaqueous electrolyte for secondary battery and nonaqueous-electrolyte secondary battery employing the same"
+    },
+    {
+      "application_number": "US13/975,736",
+      "relation_type": "Continuation",
+      "representative_publication": "US9590270B2",
+      "primary_language": "en",
+      "priority_date": "2007-04-05",
+      "filing_date": "2013-08-26",
+      "title": "Nonaqueous electrolyte for secondary battery and nonaqueous-electrolyte secondary battery employing the same"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "PCT/JP2008/056803",
+      "relation_type": "A-371-Of-International",
+      "representative_publication": "WO2008126800A1",
+      "primary_language": "en",
+      "priority_date": "2007-04-05",
+      "filing_date": "2008-04-04",
+      "title": "Nonaqueous electrolyte for rechargeable battery, and rechargeable battery with nonaqueous electrolyte"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2007-099274",
+      "filing_date": "2007-04-05"
+    },
+    {
+      "application_number": "JP2007099274A",
+      "representative_publication": "JP2008258013A",
+      "primary_language": "en",
+      "priority_date": "2007-04-05",
+      "filing_date": "2007-04-05",
+      "title": "Non-aqueous electrolyte and non-aqueous electrolyte secondary battery using the same"
+    },
+    {
+      "application_number": "JP2007111961A",
+      "representative_publication": "JP5374827B2",
+      "primary_language": "en",
+      "priority_date": "2007-04-20",
+      "filing_date": "2007-04-20",
+      "title": "Non-aqueous electrolyte and non-aqueous electrolyte battery"
+    },
+    {
+      "application_number": "JP2007-111961",
+      "filing_date": "2007-04-20"
+    },
+    {
+      "application_number": "JP2007-111931",
+      "filing_date": "2007-04-20"
+    },
+    {
+      "application_number": "JP2007111931A",
+      "representative_publication": "JP2008269979A",
+      "primary_language": "en",
+      "priority_date": "2007-04-20",
+      "filing_date": "2007-04-20",
+      "title": "Non-aqueous electrolyte for secondary battery and non-aqueous electrolyte secondary battery using the same"
+    },
+    {
+      "application_number": "JP2007116442A",
+      "representative_publication": "JP5628469B2",
+      "primary_language": "en",
+      "priority_date": "2007-04-26",
+      "filing_date": "2007-04-26",
+      "title": "Non-aqueous electrolyte for secondary battery and non-aqueous electrolyte secondary battery using the same"
+    },
+    {
+      "application_number": "JP2007-116442",
+      "filing_date": "2007-04-26"
+    },
+    {
+      "application_number": "JP2007116445A",
+      "representative_publication": "JP5268016B2",
+      "primary_language": "en",
+      "priority_date": "2007-04-26",
+      "filing_date": "2007-04-26",
+      "title": "Non-aqueous electrolyte for secondary battery and non-aqueous electrolyte secondary battery using the same"
+    },
+    {
+      "application_number": "JP2007-116450",
+      "filing_date": "2007-04-26"
+    },
+    {
+      "application_number": "JP2007-116445",
+      "filing_date": "2007-04-26"
+    },
+    {
+      "application_number": "JP2007116450A",
+      "representative_publication": "JP5418955B2",
+      "primary_language": "en",
+      "priority_date": "2007-04-26",
+      "filing_date": "2007-04-26",
+      "title": "Non-aqueous electrolyte for secondary battery and non-aqueous electrolyte secondary battery using the same"
+    },
+    {
+      "application_number": "PCT/JP2008/056803",
+      "representative_publication": "WO2008126800A1",
+      "primary_language": "en",
+      "priority_date": "2007-04-05",
+      "filing_date": "2008-04-04",
+      "title": "Nonaqueous electrolyte for rechargeable battery, and rechargeable battery with nonaqueous electrolyte"
+    }
+  ],
+  "family_id": "39863898",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US6001325A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-26",
+        "publication_date": "1999-12-14",
+        "assignee_original": "Fmc Corporation",
+        "title": "Process for removing acids from lithium salt solutions",
+        "patent_id": "patent/US6001325A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6001325A%2Fen"
+      },
+      {
+        "publication_number": "US20020192564A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2001-04-19",
+        "publication_date": "2002-12-19",
+        "assignee_original": "Taeko Ota",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/US20020192564A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20020192564A1%2Fen"
+      },
+      {
+        "publication_number": "US20040091786A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2000-06-26",
+        "publication_date": "2004-05-13",
+        "assignee_original": "Shigeyuki Unoki",
+        "title": "Non-aqueous electrolyte and non-aqueous electrolyte secondary cell",
+        "patent_id": "patent/US20040091786A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040091786A1%2Fen"
+      },
+      {
+        "publication_number": "US20040191636A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-28",
+        "publication_date": "2004-09-30",
+        "assignee_original": "Yoshinori Kida",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/US20040191636A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20040191636A1%2Fen"
+      },
+      {
+        "publication_number": "US20050014071A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-22",
+        "publication_date": "2005-01-20",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolyte solution and nonaqueous electrolyte solution secondary battery employing the same",
+        "patent_id": "patent/US20050014071A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050014071A1%2Fen"
+      },
+      {
+        "publication_number": "US20050084765A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-08-20",
+        "publication_date": "2005-04-21",
+        "assignee_original": "Lee Yong-Beom",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery comprising same",
+        "patent_id": "patent/US20050084765A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050084765A1%2Fen"
+      },
+      {
+        "publication_number": "US20050118512A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-03-08",
+        "publication_date": "2005-06-02",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolyte and lithium secondary battery employing the same",
+        "patent_id": "patent/US20050118512A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20050118512A1%2Fen"
+      },
+      {
+        "publication_number": "US20060088763A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-05-17",
+        "publication_date": "2006-04-27",
+        "assignee_original": "Wen Li",
+        "title": "Additives for increasing ion conductivity of molten salt type electrolyte in battery",
+        "patent_id": "patent/US20060088763A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060088763A1%2Fen"
+      },
+      {
+        "publication_number": "US20060134528A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-10",
+        "publication_date": "2006-06-22",
+        "assignee_original": "Masayuki Ihara",
+        "title": "Battery",
+        "patent_id": "patent/US20060134528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060134528A1%2Fen"
+      },
+      {
+        "publication_number": "US20060286459A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-07",
+        "publication_date": "2006-12-21",
+        "assignee_original": "Hitachi Maxell, Ltd.",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/US20060286459A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20060286459A1%2Fen"
+      },
+      {
+        "publication_number": "US20070048607A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-15",
+        "publication_date": "2007-03-01",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous-electrolyte secondary battery",
+        "patent_id": "patent/US20070048607A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070048607A1%2Fen"
+      },
+      {
+        "publication_number": "JP2007173180A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-12-26",
+        "publication_date": "2007-07-05",
+        "assignee_original": "Central Glass Co Ltd",
+        "title": "Electrolyte for non-aqueous electrolyte battery and non-aqueous electrolyte battery",
+        "patent_id": "patent/JP2007173180A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007173180A%2Fen"
+      },
+      {
+        "publication_number": "US20070298326A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-01-19",
+        "publication_date": "2007-12-27",
+        "assignee_original": "Angell Charles A",
+        "title": "Electric Current-Producing Device Having Sulfone-Based Electrolyte",
+        "patent_id": "patent/US20070298326A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20070298326A1%2Fen"
+      },
+      {
+        "publication_number": "US20080102376A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-19",
+        "publication_date": "2008-05-01",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Method for Producing Difluorophosphate, Nonaqueous Electrolyte Solution for Secondary Battery and Nonaqueous Electrolyte Secondary Battery",
+        "patent_id": "patent/US20080102376A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080102376A1%2Fen"
+      },
+      {
+        "publication_number": "US20080305402A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-20",
+        "publication_date": "2008-12-11",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Method for Producing Difluorophosphate, Non-Aqueous Electrolyte for Secondary Cell and Non-Aqueous Electrolyte Secondary Cell",
+        "patent_id": "patent/US20080305402A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080305402A1%2Fen"
+      },
+      {
+        "publication_number": "US8178246B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-10",
+        "publication_date": "2012-05-15",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolyte solution, nonaqueous electrolyte secondary cell, and carbonate compounds",
+        "patent_id": "patent/US8178246B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8178246B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP2654553B2",
+        "primary_language": "en",
+        "priority_date": "1988-05-13",
+        "publication_date": "1997-09-17",
+        "assignee_original": "\u65e5\u672c\u96fb\u4fe1\u96fb\u8a71\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrolyte for lithium secondary battery",
+        "patent_id": "patent/JP2654553B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2654553B2%2Fen"
+      },
+      {
+        "publication_number": "JP3036018B2",
+        "primary_language": "en",
+        "priority_date": "1990-08-10",
+        "publication_date": "2000-04-24",
+        "assignee_original": "\u65e5\u672c\u96fb\u6c60\u682a\u5f0f\u4f1a\u793e",
+        "title": "Organic electrolyte battery",
+        "patent_id": "patent/JP3036018B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3036018B2%2Fen"
+      },
+      {
+        "publication_number": "JPH07176322A",
+        "primary_language": "en",
+        "priority_date": "1993-12-21",
+        "publication_date": "1995-07-14",
+        "assignee_original": "Mitsubishi Cable Ind Ltd",
+        "title": "Electrolytic solution for li secondary battery",
+        "patent_id": "patent/JPH07176322A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH07176322A%2Fen"
+      },
+      {
+        "publication_number": "JP2734978B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-02-18",
+        "publication_date": "1998-04-02",
+        "assignee_original": "\u65e5\u672c\u96fb\u6c60\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte battery",
+        "patent_id": "patent/JP2734978B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2734978B2%2Fen"
+      },
+      {
+        "publication_number": "DE69531901T2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1994-07-07",
+        "publication_date": "2004-08-05",
+        "assignee_original": "Mitsui Chemicals, Inc.",
+        "title": "Non-aqueous electrolyte solutions and cells containing these electrolyte solutions",
+        "patent_id": "patent/DE69531901T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FDE69531901T2%2Fen"
+      },
+      {
+        "publication_number": "JP4000603B2",
+        "primary_language": "en",
+        "priority_date": "1995-03-07",
+        "publication_date": "2007-10-31",
+        "assignee_original": "\u65ed\u785d\u5b50\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electric double layer capacitor",
+        "patent_id": "patent/JP4000603B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4000603B2%2Fen"
+      },
+      {
+        "publication_number": "US5754393A",
+        "primary_language": "en",
+        "priority_date": "1995-03-07",
+        "publication_date": "1998-05-19",
+        "assignee_original": "Asahi Glass Company Ltd.",
+        "title": "Electric double layer capacitor",
+        "patent_id": "patent/US5754393A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5754393A%2Fen"
+      },
+      {
+        "publication_number": "JPH08250378A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1995-03-08",
+        "publication_date": "1996-09-27",
+        "assignee_original": "Mitsubishi Chem Corp",
+        "title": "Non-aqueous electrolyte for electrochemical capacitors",
+        "patent_id": "patent/JPH08250378A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH08250378A%2Fen"
+      },
+      {
+        "publication_number": "JPH09161845A",
+        "primary_language": "en",
+        "priority_date": "1995-12-12",
+        "publication_date": "1997-06-20",
+        "assignee_original": "Asahi Chem Ind Co Ltd",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JPH09161845A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09161845A%2Fen"
+      },
+      {
+        "publication_number": "JPH09245332A",
+        "primary_language": "en",
+        "priority_date": "1996-03-06",
+        "publication_date": "1997-09-19",
+        "assignee_original": "Nec Corp",
+        "title": "Magnetic head",
+        "patent_id": "patent/JPH09245332A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09245332A%2Fen"
+      },
+      {
+        "publication_number": "JPH09245832A",
+        "primary_language": "en",
+        "priority_date": "1996-03-07",
+        "publication_date": "1997-09-19",
+        "assignee_original": "Fuji Elelctrochem Co Ltd",
+        "title": "Non-aqueous electrolyte",
+        "patent_id": "patent/JPH09245832A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPH09245832A%2Fen"
+      },
+      {
+        "publication_number": "JP3669064B2",
+        "primary_language": "en",
+        "priority_date": "1996-08-01",
+        "publication_date": "2005-07-06",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP3669064B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3669064B2%2Fen"
+      },
+      {
+        "publication_number": "JP3439085B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-08-21",
+        "publication_date": "2003-08-25",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP3439085B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3439085B2%2Fen"
+      },
+      {
+        "publication_number": "TW432733B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1997-10-02",
+        "publication_date": "2001-05-01",
+        "assignee_original": "Basf Ag",
+        "title": "Esters as solvents in electrolyte systems for Li-ion storage cells",
+        "patent_id": "patent/TW432733B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTW432733B%2Fen"
+      },
+      {
+        "publication_number": "JP2000012078A",
+        "primary_language": "en",
+        "priority_date": "1998-06-18",
+        "publication_date": "2000-01-14",
+        "assignee_original": "Toyota Central Res & Dev Lab Inc",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2000012078A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000012078A%2Fen"
+      },
+      {
+        "publication_number": "JP2000058118A",
+        "primary_language": "en",
+        "priority_date": "1998-07-31",
+        "publication_date": "2000-02-25",
+        "assignee_original": "Toyota Central Res & Dev Lab Inc",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2000058118A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2000058118A%2Fen"
+      },
+      {
+        "publication_number": "JP3815087B2",
+        "primary_language": "en",
+        "priority_date": "1998-10-26",
+        "publication_date": "2006-08-30",
+        "assignee_original": "\u5b87\u90e8\u8208\u7523\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and lithium secondary battery using the same",
+        "patent_id": "patent/JP3815087B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3815087B2%2Fen"
+      },
+      {
+        "publication_number": "US6919145B1",
+        "primary_language": "en",
+        "priority_date": "1999-06-18",
+        "publication_date": "2005-07-19",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytic solution type secondary battery",
+        "patent_id": "patent/US6919145B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6919145B1%2Fen"
+      },
+      {
+        "publication_number": "JP2001006729A",
+        "primary_language": "en",
+        "priority_date": "1999-06-18",
+        "publication_date": "2001-01-12",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2001006729A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2001006729A%2Fen"
+      },
+      {
+        "publication_number": "JP4374661B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-06-30",
+        "publication_date": "2009-12-02",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4374661B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4374661B2%2Fen"
+      },
+      {
+        "publication_number": "JP3802287B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1999-08-04",
+        "publication_date": "2006-07-26",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP3802287B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3802287B2%2Fen"
+      },
+      {
+        "publication_number": "JP4706088B2",
+        "primary_language": "en",
+        "priority_date": "1999-12-06",
+        "publication_date": "2011-06-22",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4706088B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4706088B2%2Fen"
+      },
+      {
+        "publication_number": "US6656642B2",
+        "primary_language": "en",
+        "priority_date": "2000-04-17",
+        "publication_date": "2003-12-02",
+        "assignee_original": "Ube Industries, Ltd.",
+        "title": "Non-aqueous electrolytic solution and lithium secondary battery",
+        "patent_id": "patent/US6656642B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6656642B2%2Fen"
+      },
+      {
+        "publication_number": "JP2002324578A",
+        "primary_language": "en",
+        "priority_date": "2001-04-25",
+        "publication_date": "2002-11-08",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Non-aqueous electrolyte secondary battery and non-aqueous electrolyte used therefor",
+        "patent_id": "patent/JP2002324578A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2002324578A%2Fen"
+      },
+      {
+        "publication_number": "JP4863572B2",
+        "primary_language": "en",
+        "priority_date": "2001-05-22",
+        "publication_date": "2012-01-25",
+        "assignee_original": "\u4e09\u4e95\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and secondary battery using the same",
+        "patent_id": "patent/JP4863572B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4863572B2%2Fen"
+      },
+      {
+        "publication_number": "JP4934917B2",
+        "primary_language": "en",
+        "priority_date": "2001-06-22",
+        "publication_date": "2012-05-23",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery and non-aqueous electrolyte used therefor",
+        "patent_id": "patent/JP4934917B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4934917B2%2Fen"
+      },
+      {
+        "publication_number": "JP4682464B2",
+        "primary_language": "en",
+        "priority_date": "2001-07-04",
+        "publication_date": "2011-05-11",
+        "assignee_original": "\uff34\uff44\uff4b\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte battery",
+        "patent_id": "patent/JP4682464B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4682464B2%2Fen"
+      },
+      {
+        "publication_number": "JP4798741B2",
+        "primary_language": "en",
+        "priority_date": "2001-08-31",
+        "publication_date": "2011-10-19",
+        "assignee_original": "\u65e5\u7acb\u30de\u30af\u30bb\u30eb\u30a8\u30ca\u30b8\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/JP4798741B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4798741B2%2Fen"
+      },
+      {
+        "publication_number": "JP2003100342A",
+        "primary_language": "en",
+        "priority_date": "2001-09-25",
+        "publication_date": "2003-04-04",
+        "assignee_original": "Hitachi Ltd",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP2003100342A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2003100342A%2Fen"
+      },
+      {
+        "publication_number": "JP4503209B2",
+        "primary_language": "en",
+        "priority_date": "2002-01-17",
+        "publication_date": "2010-07-14",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u30b8\u30fc\u30a8\u30b9\u30fb\u30e6\u30a2\u30b5\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "title": "Non-aqueous electrolyte battery",
+        "patent_id": "patent/JP4503209B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4503209B2%2Fen"
+      },
+      {
+        "publication_number": "JP4308477B2",
+        "primary_language": "en",
+        "priority_date": "2002-03-29",
+        "publication_date": "2009-08-05",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery and electrolyte used therefor",
+        "patent_id": "patent/JP4308477B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4308477B2%2Fen"
+      },
+      {
+        "publication_number": "JP2004014134A",
+        "primary_language": "en",
+        "priority_date": "2002-06-03",
+        "publication_date": "2004-01-15",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Non-aqueous electrolyte secondary battery and electrolyte used therefor",
+        "patent_id": "patent/JP2004014134A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004014134A%2Fen"
+      },
+      {
+        "publication_number": "JP4233819B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-25",
+        "publication_date": "2009-03-04",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4233819B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4233819B2%2Fen"
+      },
+      {
+        "publication_number": "JP2004139743A",
+        "primary_language": "en",
+        "priority_date": "2002-08-21",
+        "publication_date": "2004-05-13",
+        "assignee_original": "Sanyo Electric Co Ltd",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2004139743A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004139743A%2Fen"
+      },
+      {
+        "publication_number": "JP4424895B2",
+        "primary_language": "en",
+        "priority_date": "2002-08-29",
+        "publication_date": "2010-03-03",
+        "assignee_original": "\u4e09\u4e95\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP4424895B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4424895B2%2Fen"
+      },
+      {
+        "publication_number": "JP4033074B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-08-29",
+        "publication_date": "2008-01-16",
+        "assignee_original": "\u65e5\u672c\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery electrolyte and secondary battery using the same",
+        "patent_id": "patent/JP4033074B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4033074B2%2Fen"
+      },
+      {
+        "publication_number": "US7740986B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-09-03",
+        "publication_date": "2010-06-22",
+        "assignee_original": "Quallion Llc",
+        "title": "Battery having electrolyte with organoborate additive",
+        "patent_id": "patent/US7740986B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7740986B2%2Fen"
+      },
+      {
+        "publication_number": "KR100467456B1",
+        "primary_language": "en",
+        "priority_date": "2002-09-10",
+        "publication_date": "2005-01-24",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for lithium-sulfur battery and lithium-sulfur battery comprising same",
+        "patent_id": "patent/KR100467456B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100467456B1%2Fen"
+      },
+      {
+        "publication_number": "KR100472509B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-10-04",
+        "publication_date": "2005-03-10",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Organic electrolytic solution and lithium battery employing the same",
+        "patent_id": "patent/KR100472509B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100472509B1%2Fen"
+      },
+      {
+        "publication_number": "JP4407233B2",
+        "primary_language": "en",
+        "priority_date": "2002-10-22",
+        "publication_date": "2010-02-03",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and non-aqueous electrolyte secondary battery using the same",
+        "patent_id": "patent/JP4407233B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4407233B2%2Fen"
+      },
+      {
+        "publication_number": "KR100472512B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-11-15",
+        "publication_date": "2005-03-11",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Organic electrolytic solution and lithium battery employing the same",
+        "patent_id": "patent/KR100472512B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100472512B1%2Fen"
+      },
+      {
+        "publication_number": "WO2004059782A1",
+        "primary_language": "en",
+        "priority_date": "2002-12-26",
+        "publication_date": "2004-07-15",
+        "assignee_original": "Bridgestone Corporation",
+        "title": "Additive for nonaqueous electrolytic solution of secondary battery and nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/WO2004059782A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2004059782A1%2Fen"
+      },
+      {
+        "publication_number": "JP4698126B2",
+        "primary_language": "en",
+        "priority_date": "2003-02-10",
+        "publication_date": "2011-06-08",
+        "assignee_original": "\u65e5\u672c\u96fb\u6c17\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4698126B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4698126B2%2Fen"
+      },
+      {
+        "publication_number": "JP4167103B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-03-28",
+        "publication_date": "2008-10-15",
+        "assignee_original": "\u677e\u4e0b\u96fb\u5668\u7523\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4167103B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4167103B2%2Fen"
+      },
+      {
+        "publication_number": "JP4674444B2",
+        "primary_language": "en",
+        "priority_date": "2003-04-18",
+        "publication_date": "2011-04-20",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing difluorophosphate, non-aqueous electrolyte for secondary battery, and non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4674444B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4674444B2%2Fen"
+      },
+      {
+        "publication_number": "JP2004363007A",
+        "primary_language": "en",
+        "priority_date": "2003-06-06",
+        "publication_date": "2004-12-24",
+        "assignee_original": "Sony Corp",
+        "title": "Lightning discharge system",
+        "patent_id": "patent/JP2004363007A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2004363007A%2Fen"
+      },
+      {
+        "publication_number": "TWI413289B",
+        "primary_language": "en",
+        "priority_date": "2003-07-17",
+        "publication_date": "2013-10-21",
+        "assignee_original": "Ube Industries",
+        "title": "Lithium battery for nonaqueous electrolytic solution and the use of its lithium battery",
+        "patent_id": "patent/TWI413289B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI413289B%2Fen"
+      },
+      {
+        "publication_number": "JP4586374B2",
+        "primary_language": "en",
+        "priority_date": "2004-02-10",
+        "publication_date": "2010-11-24",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4586374B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4586374B2%2Fen"
+      },
+      {
+        "publication_number": "US7939206B2",
+        "primary_language": "en",
+        "priority_date": "2003-12-26",
+        "publication_date": "2011-05-10",
+        "assignee_original": "Bridgestone Corporation",
+        "title": "Non-aqueous electrolyte for cell, non-aqueous electrolyte cell having the same as well as electrolyte for polymer cell and polymer cell having the same",
+        "patent_id": "patent/US7939206B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS7939206B2%2Fen"
+      },
+      {
+        "publication_number": "JP2005190869A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2003-12-26",
+        "publication_date": "2005-07-14",
+        "assignee_original": "Bridgestone Corp",
+        "title": "Electrolyte for polymer battery, and the polymer battery equipped with it",
+        "patent_id": "patent/JP2005190869A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005190869A%2Fen"
+      },
+      {
+        "publication_number": "JP2005251738A",
+        "primary_language": "en",
+        "priority_date": "2004-02-03",
+        "publication_date": "2005-09-15",
+        "assignee_original": "Toshiba Corp",
+        "title": "Nonaqueous electrolyte secondary battery and manufacturing method for nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2005251738A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005251738A%2Fen"
+      },
+      {
+        "publication_number": "KR20060042201A",
+        "primary_language": "en",
+        "priority_date": "2004-02-27",
+        "publication_date": "2006-05-12",
+        "assignee_original": "\uc0b0\uc694\ub374\ud0a4\uac00\ubd80\uc2dc\ud0a4\uac00\uc774\uc0e4",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/KR20060042201A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20060042201A%2Fen"
+      },
+      {
+        "publication_number": "JP2006196250A",
+        "primary_language": "en",
+        "priority_date": "2005-01-12",
+        "publication_date": "2006-07-27",
+        "assignee_original": "Sanyo Electric Co Ltd",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP2006196250A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006196250A%2Fen"
+      },
+      {
+        "publication_number": "JP2005251456A",
+        "primary_language": "en",
+        "priority_date": "2004-03-02",
+        "publication_date": "2005-09-15",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Nonaqueous electrolytic solution for lithium secondary battery, and lithium secondary battery using the same",
+        "patent_id": "patent/JP2005251456A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2005251456A%2Fen"
+      },
+      {
+        "publication_number": "JP4586388B2",
+        "primary_language": "en",
+        "priority_date": "2004-03-19",
+        "publication_date": "2010-11-24",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte, lithium ion secondary battery, and fluorine-containing ester compound",
+        "patent_id": "patent/JP4586388B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4586388B2%2Fen"
+      },
+      {
+        "publication_number": "CN100544106C",
+        "primary_language": "en",
+        "priority_date": "2004-05-28",
+        "publication_date": "2009-09-23",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u5316\u5b66",
+        "title": "Lithium secondary battery having charge cut-off voltage exceeding 4.35V",
+        "patent_id": "patent/CN100544106C/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN100544106C%2Fen"
+      },
+      {
+        "publication_number": "KR100826084B1",
+        "primary_language": "en",
+        "priority_date": "2004-12-29",
+        "publication_date": "2008-04-29",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Additive for Lithium Secondary Battery",
+        "patent_id": "patent/KR100826084B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100826084B1%2Fen"
+      },
+      {
+        "publication_number": "BRPI0511204B1",
+        "primary_language": "en",
+        "priority_date": "2004-05-28",
+        "publication_date": "2016-03-01",
+        "assignee_original": "Lg Chemical Ltd",
+        "title": "lithium secondary battery",
+        "patent_id": "patent/BRPI0511204B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FBRPI0511204B1%2Fen"
+      },
+      {
+        "publication_number": "JP2006032300A",
+        "primary_language": "en",
+        "priority_date": "2004-07-21",
+        "publication_date": "2006-02-02",
+        "assignee_original": "Sony Corp",
+        "title": "Electrolyte and battery",
+        "patent_id": "patent/JP2006032300A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006032300A%2Fen"
+      },
+      {
+        "publication_number": "JP2006060580A",
+        "primary_language": "en",
+        "priority_date": "2004-08-20",
+        "publication_date": "2006-03-02",
+        "assignee_original": "Taiyo Yuden Co Ltd",
+        "title": "Digital amplifier",
+        "patent_id": "patent/JP2006060580A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006060580A%2Fen"
+      },
+      {
+        "publication_number": "JP4921702B2",
+        "primary_language": "en",
+        "priority_date": "2004-09-17",
+        "publication_date": "2012-04-25",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery and non-aqueous electrolyte",
+        "patent_id": "patent/JP4921702B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4921702B2%2Fen"
+      },
+      {
+        "publication_number": "JP4284541B2",
+        "primary_language": "en",
+        "priority_date": "2004-12-14",
+        "publication_date": "2009-06-24",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery",
+        "patent_id": "patent/JP4284541B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4284541B2%2Fen"
+      },
+      {
+        "publication_number": "WO2006065605A2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-12-16",
+        "publication_date": "2006-06-22",
+        "assignee_original": "Uchicago Argonne, Llc",
+        "title": "Long life lithium batteries with stabilized electrodes",
+        "patent_id": "patent/WO2006065605A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006065605A2%2Fen"
+      },
+      {
+        "publication_number": "JP5050845B2",
+        "primary_language": "en",
+        "priority_date": "2005-02-15",
+        "publication_date": "2012-10-17",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Test equipment and use thereof",
+        "patent_id": "patent/JP5050845B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5050845B2%2Fen"
+      },
+      {
+        "publication_number": "WO2006109443A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-03-31",
+        "publication_date": "2006-10-19",
+        "assignee_original": "Bridgestone Corporation",
+        "title": "Nonaqueous electrolyte solution for battery and nonaqueous electrolyte secondary battery comprising same",
+        "patent_id": "patent/WO2006109443A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2006109443A1%2Fen"
+      },
+      {
+        "publication_number": "JP2006286351A",
+        "primary_language": "en",
+        "priority_date": "2005-03-31",
+        "publication_date": "2006-10-19",
+        "assignee_original": "Sumitomo Bakelite Co Ltd",
+        "title": "Lithium ion conductive electrolyte, composition for the same, its manufacturing method, and secondary battery",
+        "patent_id": "patent/JP2006286351A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006286351A%2Fen"
+      },
+      {
+        "publication_number": "JP5055710B2",
+        "primary_language": "en",
+        "priority_date": "2005-04-13",
+        "publication_date": "2012-10-24",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery electrolyte, secondary battery and electronic equipment",
+        "patent_id": "patent/JP5055710B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5055710B2%2Fen"
+      },
+      {
+        "publication_number": "JP2006351337A",
+        "primary_language": "en",
+        "priority_date": "2005-06-15",
+        "publication_date": "2006-12-28",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/JP2006351337A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2006351337A%2Fen"
+      },
+      {
+        "publication_number": "JP4952080B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-20",
+        "publication_date": "2012-06-13",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte for secondary battery and non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4952080B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4952080B2%2Fen"
+      },
+      {
+        "publication_number": "KR100746479B1",
+        "primary_language": "en",
+        "priority_date": "2005-09-15",
+        "publication_date": "2007-08-03",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Non-aqueous electrolyte additive and electrochemical device using same",
+        "patent_id": "patent/KR100746479B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR100746479B1%2Fen"
+      },
+      {
+        "publication_number": "JP2007095363A",
+        "primary_language": "en",
+        "priority_date": "2005-09-27",
+        "publication_date": "2007-04-12",
+        "assignee_original": "Sony Corp",
+        "title": "Electrode material for battery and manufacturing method of electrode material for battery",
+        "patent_id": "patent/JP2007095363A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007095363A%2Fen"
+      },
+      {
+        "publication_number": "WO2007043526A1",
+        "primary_language": "en",
+        "priority_date": "2005-10-12",
+        "publication_date": "2007-04-19",
+        "assignee_original": "Mitsui Chemicals, Inc.",
+        "title": "Nonaqueous electrolyte solution and lithium secondary battery using same",
+        "patent_id": "patent/WO2007043526A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2007043526A1%2Fen"
+      },
+      {
+        "publication_number": "JP4952186B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-10-20",
+        "publication_date": "2012-06-13",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte for secondary battery and secondary battery using the same",
+        "patent_id": "patent/JP4952186B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4952186B2%2Fen"
+      },
+      {
+        "publication_number": "JP2007141630A",
+        "primary_language": "en",
+        "priority_date": "2005-11-18",
+        "publication_date": "2007-06-07",
+        "assignee_original": "Mitsuki Takahashi",
+        "title": "Insulok for energization",
+        "patent_id": "patent/JP2007141630A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2007141630A%2Fen"
+      },
+      {
+        "publication_number": "JP5007507B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-01-31",
+        "publication_date": "2012-08-22",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte composition for secondary battery and non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP5007507B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5007507B2%2Fen"
+      },
+      {
+        "publication_number": "JP5044967B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-03-31",
+        "publication_date": "2012-10-10",
+        "assignee_original": "\u30bd\u30cb\u30fc\u682a\u5f0f\u4f1a\u793e",
+        "title": "Secondary battery electrolyte and secondary battery",
+        "patent_id": "patent/JP5044967B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5044967B2%2Fen"
+      },
+      {
+        "publication_number": "CN107658494A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-12-06",
+        "publication_date": "2018-02-02",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/CN107658494A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107658494A%2Fen"
+      },
+      {
+        "publication_number": "KR102561875B1",
+        "primary_language": "en",
+        "priority_date": "2007-04-05",
+        "publication_date": "2023-07-31",
+        "assignee_original": "\ubbf8\ucbd4\ube44\uc2dc \ucf00\ubbf8\uceec \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Nonaqueous electrolyte for rechargeable battery, and rechargeable battery with nonaqueous electrolyte",
+        "patent_id": "patent/KR102561875B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102561875B1%2Fen"
+      },
+      {
+        "publication_number": "US9048508B2",
+        "primary_language": "en",
+        "priority_date": "2007-04-20",
+        "publication_date": "2015-06-02",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytes and nonaqueous-electrolyte secondary batteries employing the same",
+        "patent_id": "patent/US9048508B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9048508B2%2Fen"
+      },
+      {
+        "publication_number": "JP5678539B2",
+        "primary_language": "en",
+        "priority_date": "2009-09-29",
+        "publication_date": "2015-03-04",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte battery",
+        "patent_id": "patent/JP5678539B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5678539B2%2Fen"
+      },
+      {
+        "publication_number": "EP2535976B1",
+        "primary_language": "en",
+        "priority_date": "2010-02-12",
+        "publication_date": "2015-09-02",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Non-aqueous electrolyte solution, and secondary battery comprising the same",
+        "patent_id": "patent/EP2535976B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2535976B1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20090226819A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-03-10",
+        "publication_date": "2009-09-10",
+        "assignee_original": "Sony Corporation",
+        "title": "Electrolytic solution and secondary battery",
+        "patent_id": "patent/US20090226819A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090226819A1%2Fen"
+      },
+      {
+        "publication_number": "US20100119950A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-11-10",
+        "publication_date": "2010-05-13",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Polymer electrolyte, lithium battery comprising the polymer electrolyte, method of preparing the polymer electrolyte, and method of preparing the lithium battery",
+        "patent_id": "patent/US20100119950A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100119950A1%2Fen"
+      },
+      {
+        "publication_number": "US20100178569A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-15",
+        "publication_date": "2010-07-15",
+        "assignee_original": "Sony Corporation",
+        "title": "Electrolyte and secondary battery",
+        "patent_id": "patent/US20100178569A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100178569A1%2Fen"
+      },
+      {
+        "publication_number": "US20100190054A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-01-29",
+        "publication_date": "2010-07-29",
+        "assignee_original": "Sony Corporation",
+        "title": "Battery",
+        "patent_id": "patent/US20100190054A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100190054A1%2Fen"
+      },
+      {
+        "publication_number": "US20100261068A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-15",
+        "publication_date": "2010-10-14",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Non-aqueous electrolyte and electrochemical device having the same",
+        "patent_id": "patent/US20100261068A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100261068A1%2Fen"
+      },
+      {
+        "publication_number": "US20100273064A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-06-12",
+        "publication_date": "2010-10-28",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Non-aqueous electrolyte and lithium secondary battery having the same",
+        "patent_id": "patent/US20100273064A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100273064A1%2Fen"
+      },
+      {
+        "publication_number": "US20100279168A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-01-02",
+        "publication_date": "2010-11-04",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Pouch-Type Lithium Secondary Battery",
+        "patent_id": "patent/US20100279168A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100279168A1%2Fen"
+      },
+      {
+        "publication_number": "US20100323240A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-12",
+        "publication_date": "2010-12-23",
+        "assignee_original": "Central Glass Company, Limited",
+        "title": "Method for Producing Lithium Difluorophosphate and Nonaqueous Electrolyte Battery Using the Same",
+        "patent_id": "patent/US20100323240A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100323240A1%2Fen"
+      },
+      {
+        "publication_number": "US20110076558A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-29",
+        "publication_date": "2011-03-31",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Non-aqueous electrolyte secondary cell",
+        "patent_id": "patent/US20110076558A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110076558A1%2Fen"
+      },
+      {
+        "publication_number": "US20110223476A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-11",
+        "publication_date": "2011-09-15",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Non-aqueous electrolyte and lithium secondary battery using the same",
+        "patent_id": "patent/US20110223476A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110223476A1%2Fen"
+      },
+      {
+        "publication_number": "US20110274981A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-03-02",
+        "publication_date": "2011-11-10",
+        "assignee_original": "Sony Corporation",
+        "title": "Nonaqueous electrolytic solution and battery",
+        "patent_id": "patent/US20110274981A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110274981A1%2Fen"
+      },
+      {
+        "publication_number": "US20120052378A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-08-25",
+        "publication_date": "2012-03-01",
+        "assignee_original": "Naoto Torata",
+        "title": "Collector and electrode for nonaqueous secondary battery and nonaqueous secondary battery",
+        "patent_id": "patent/US20120052378A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120052378A1%2Fen"
+      },
+      {
+        "publication_number": "JP2012049106A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-05-12",
+        "publication_date": "2012-03-08",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/JP2012049106A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2012049106A%2Fen"
+      },
+      {
+        "publication_number": "US20120121988A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-23",
+        "publication_date": "2012-05-17",
+        "assignee_original": "Gs Caltex Corporation",
+        "title": "Negative active material for rechargeable lithium battery, method of manufacturing the same and rechargeable lithium battery having the same",
+        "patent_id": "patent/US20120121988A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120121988A1%2Fen"
+      },
+      {
+        "publication_number": "US20120202110A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-31",
+        "publication_date": "2012-08-09",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Secondary battery cell and a battery pack",
+        "patent_id": "patent/US20120202110A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120202110A1%2Fen"
+      },
+      {
+        "publication_number": "US20120214067A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-02-15",
+        "publication_date": "2012-08-23",
+        "assignee_original": "Goto Natsumi",
+        "title": "Negative electrode active material for lithium ion secondary battery and method for producing the same",
+        "patent_id": "patent/US20120214067A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120214067A1%2Fen"
+      },
+      {
+        "publication_number": "US20120219865A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-10-28",
+        "publication_date": "2012-08-30",
+        "assignee_original": "Nec Energy Devices, Ltd.",
+        "title": "Nonaqueous-type electrolyte solution, and device comprising the same",
+        "patent_id": "patent/US20120219865A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120219865A1%2Fen"
+      },
+      {
+        "publication_number": "US20120282531A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-05-04",
+        "publication_date": "2012-11-08",
+        "assignee_original": "Hwang Duck-Chul",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery including the same",
+        "patent_id": "patent/US20120282531A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120282531A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012170693A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-06-09",
+        "publication_date": "2012-12-13",
+        "assignee_original": "Wildcat Discovery Technologies, Inc.",
+        "title": "Materials for battery electrolytes and methods for use",
+        "patent_id": "patent/WO2012170693A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012170693A1%2Fen"
+      },
+      {
+        "publication_number": "US20130011734A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-01-25",
+        "publication_date": "2013-01-10",
+        "assignee_original": "Jx Nippon Mining & Metals Corporation",
+        "title": "Copper foil for negative electrode current collector of secondary battery",
+        "patent_id": "patent/US20130011734A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130011734A1%2Fen"
+      },
+      {
+        "publication_number": "US20130029230A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-10-06",
+        "publication_date": "2013-01-31",
+        "assignee_original": "Samsung Sdi, Co., Ltd.",
+        "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+        "patent_id": "patent/US20130029230A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130029230A1%2Fen"
+      },
+      {
+        "publication_number": "US8388856B2",
+        "primary_language": "en",
+        "priority_date": "2010-06-07",
+        "publication_date": "2013-03-05",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrolyte for rechargeable lithium battery including additives, and rechargeable lithium battery including the same",
+        "patent_id": "patent/US8388856B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8388856B2%2Fen"
+      },
+      {
+        "publication_number": "US20130130119A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-09",
+        "publication_date": "2013-05-23",
+        "assignee_original": "Sho MAJIMA",
+        "title": "Copper-covered steel foil, negative electrode collector and its production method, and battery",
+        "patent_id": "patent/US20130130119A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130130119A1%2Fen"
+      },
+      {
+        "publication_number": "US20130164618A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-27",
+        "publication_date": "2013-06-27",
+        "assignee_original": "Hitachi, Ltd.",
+        "title": "Non-aqueous secondary battery",
+        "patent_id": "patent/US20130164618A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130164618A1%2Fen"
+      },
+      {
+        "publication_number": "US20130202955A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-09-22",
+        "publication_date": "2013-08-08",
+        "assignee_original": "Fujifilm Corporation",
+        "title": "Nonaqueous electrolyte for secondary battery and lithium secondary battery",
+        "patent_id": "patent/US20130202955A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130202955A1%2Fen"
+      },
+      {
+        "publication_number": "US20130273427A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-04-13",
+        "publication_date": "2013-10-17",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Secondary battery having improved safety",
+        "patent_id": "patent/US20130273427A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130273427A1%2Fen"
+      },
+      {
+        "publication_number": "US20130302695A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-01-26",
+        "publication_date": "2013-11-14",
+        "assignee_original": "Evonik Degussa Gmbh",
+        "title": "Thin macroporous polymeric foils",
+        "patent_id": "patent/US20130302695A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130302695A1%2Fen"
+      },
+      {
+        "publication_number": "US20130337325A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-05-31",
+        "publication_date": "2013-12-19",
+        "assignee_original": "Lg Chem, Ltd.",
+        "title": "Anode including silicon-based material and carbon material, and lithium secondary battery including the same",
+        "patent_id": "patent/US20130337325A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130337325A1%2Fen"
+      },
+      {
+        "publication_number": "US20140045042A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-09",
+        "publication_date": "2014-02-13",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/US20140045042A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140045042A1%2Fen"
+      },
+      {
+        "publication_number": "US20140072862A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-07",
+        "publication_date": "2014-03-13",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Method of producing lithium ion secondary battery, and lithium ion secondary battery",
+        "patent_id": "patent/US20140072862A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140072862A1%2Fen"
+      },
+      {
+        "publication_number": "US8673489B2",
+        "primary_language": "en",
+        "priority_date": "2010-02-12",
+        "publication_date": "2014-03-18",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytic solution and nonaqeuous-electrolyte secondary battery",
+        "patent_id": "patent/US8673489B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8673489B2%2Fen"
+      },
+      {
+        "publication_number": "US8697295B2",
+        "primary_language": "en",
+        "priority_date": "2006-12-06",
+        "publication_date": "2014-04-15",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytic solution and nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/US8697295B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8697295B2%2Fen"
+      },
+      {
+        "publication_number": "US8703344B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-09",
+        "publication_date": "2014-04-22",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Materials for battery electrolytes and methods for use",
+        "patent_id": "patent/US8703344B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8703344B2%2Fen"
+      },
+      {
+        "publication_number": "US8734668B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-09",
+        "publication_date": "2014-05-27",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Materials for battery electrolytes and methods for use",
+        "patent_id": "patent/US8734668B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8734668B2%2Fen"
+      },
+      {
+        "publication_number": "US20140170459A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-12-14",
+        "publication_date": "2014-06-19",
+        "assignee_original": "The Penn State Research Foundation",
+        "title": "Liquid Electrolyte for Increasing Capacity and Cycling Retention of Lithium Sulfur Battery",
+        "patent_id": "patent/US20140170459A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140170459A1%2Fen"
+      },
+      {
+        "publication_number": "US20140227611A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-09-20",
+        "publication_date": "2014-08-14",
+        "assignee_original": "Nec Corporation",
+        "title": "Non-Aqueous Secondary Battery",
+        "patent_id": "patent/US20140227611A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140227611A1%2Fen"
+      },
+      {
+        "publication_number": "US20140234708A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-20",
+        "publication_date": "2014-08-21",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrode for rechargeable lithium battery, method of preparing the same and rechargeable lithium battery including same",
+        "patent_id": "patent/US20140234708A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140234708A1%2Fen"
+      },
+      {
+        "publication_number": "US8927158B2",
+        "primary_language": "en",
+        "priority_date": "2010-05-10",
+        "publication_date": "2015-01-06",
+        "assignee_original": "Sanyo Electric Co., Ltd.",
+        "title": "Nonaqueous electrolyte secondary battery and nonaqueous electrolytic solution for nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/US8927158B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8927158B2%2Fen"
+      },
+      {
+        "publication_number": "EP2736112A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-18",
+        "publication_date": "2015-03-11",
+        "assignee_original": "Lg Chemical Ltd",
+        "title": "Nonaqueous electrolyte and lithium secondary battery using same",
+        "patent_id": "patent/EP2736112A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2736112A4%2Fen"
+      },
+      {
+        "publication_number": "EP2768065A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-10-11",
+        "publication_date": "2015-03-18",
+        "assignee_original": "Gs Yuasa Int Ltd",
+        "title": "Nonaqueous electrolyte secondary cell and method for producing nonaqueous electrolyte secondary cell",
+        "patent_id": "patent/EP2768065A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2768065A4%2Fen"
+      },
+      {
+        "publication_number": "EP2854147A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-30",
+        "publication_date": "2015-04-01",
+        "assignee_original": "Solvay SA",
+        "title": "Electrolyte compositions comprising fluorinated carbonates",
+        "patent_id": "patent/EP2854147A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2854147A1%2Fen"
+      },
+      {
+        "publication_number": "US9029003B2",
+        "primary_language": "en",
+        "priority_date": "2011-12-14",
+        "publication_date": "2015-05-12",
+        "assignee_original": "Industrial Technology Research Institute",
+        "title": "Electrode assembly of lithium secondary battery",
+        "patent_id": "patent/US9029003B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9029003B2%2Fen"
+      },
+      {
+        "publication_number": "US20150171466A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-28",
+        "publication_date": "2015-06-18",
+        "assignee_original": "Byd Company Limited",
+        "title": "Gel polymer composite electrolyte, polymer lithium ion battery comprising the gel polymer composite electrolyte and methods of preparing the same",
+        "patent_id": "patent/US20150171466A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150171466A1%2Fen"
+      },
+      {
+        "publication_number": "US20150221977A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-02-05",
+        "publication_date": "2015-08-06",
+        "assignee_original": "Johnson Controls Technology Company",
+        "title": "Electrolytes for low impedance, wide operating temperature range lithium-ion battery module",
+        "patent_id": "patent/US20150221977A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150221977A1%2Fen"
+      },
+      {
+        "publication_number": "US20150255793A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-09-27",
+        "publication_date": "2015-09-10",
+        "assignee_original": "Showa Denko K.K.",
+        "title": "Carbon material for negative electrode for lithium ion secondary battery, manufacturing process therefor and use thereof",
+        "patent_id": "patent/US20150255793A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150255793A1%2Fen"
+      },
+      {
+        "publication_number": "US9142864B2",
+        "primary_language": "en",
+        "priority_date": "2010-11-15",
+        "publication_date": "2015-09-22",
+        "assignee_original": "Amprius, Inc.",
+        "title": "Electrolytes for rechargeable batteries",
+        "patent_id": "patent/US9142864B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9142864B2%2Fen"
+      },
+      {
+        "publication_number": "US20150318576A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-28",
+        "publication_date": "2015-11-05",
+        "assignee_original": "Iucf-Hyu(Industry-University Cooperation Hanyang University)",
+        "title": "Rechargeable battery comprising non-aqueous electrolytic solution using alkyl methanesulfonate as solvent for dissolving electrolytic salt",
+        "patent_id": "patent/US20150318576A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150318576A1%2Fen"
+      },
+      {
+        "publication_number": "US9196903B2",
+        "primary_language": "en",
+        "priority_date": "2009-09-29",
+        "publication_date": "2015-11-24",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous-electrolyte batteries and nonaqueous electrolytic solutions",
+        "patent_id": "patent/US9196903B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9196903B2%2Fen"
+      },
+      {
+        "publication_number": "US9252457B2",
+        "primary_language": "en",
+        "priority_date": "2006-04-27",
+        "publication_date": "2016-02-02",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Non-aqueous liquid electrolyte and non-aqueous liquid electrolyte secondary battery",
+        "patent_id": "patent/US9252457B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9252457B2%2Fen"
+      },
+      {
+        "publication_number": "US9269998B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-13",
+        "publication_date": "2016-02-23",
+        "assignee_original": "Fluidic, Inc.",
+        "title": "Concave gas vent for electrochemical cell",
+        "patent_id": "patent/US9269998B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9269998B2%2Fen"
+      },
+      {
+        "publication_number": "US20160056468A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-26",
+        "publication_date": "2016-02-25",
+        "assignee_original": "Nissan Motor Co., Ltd.",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/US20160056468A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160056468A1%2Fen"
+      },
+      {
+        "publication_number": "US9303011B2",
+        "primary_language": "en",
+        "priority_date": "2010-04-26",
+        "publication_date": "2016-04-05",
+        "assignee_original": "Mitsui Chemicals, Inc.",
+        "title": "Nonaqueous electrolyte solution containing cyclic sulfone compound, and lithium secondary battery",
+        "patent_id": "patent/US9303011B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9303011B2%2Fen"
+      },
+      {
+        "publication_number": "US9325037B2",
+        "primary_language": "en",
+        "priority_date": "2013-03-13",
+        "publication_date": "2016-04-26",
+        "assignee_original": "Fluidic, Inc.",
+        "title": "Hetero-ionic aromatic additives for electrochemical cells comprising a metal fuel",
+        "patent_id": "patent/US9325037B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9325037B2%2Fen"
+      },
+      {
+        "publication_number": "US20160226098A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-09-13",
+        "publication_date": "2016-08-04",
+        "assignee_original": "Nec Corporation",
+        "title": "Electrolytic solution and secondary battery",
+        "patent_id": "patent/US20160226098A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160226098A1%2Fen"
+      },
+      {
+        "publication_number": "US9559395B2",
+        "primary_language": "en",
+        "priority_date": "2011-06-10",
+        "publication_date": "2017-01-31",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Lithium/air battery with variable volume insertion material",
+        "patent_id": "patent/US9559395B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9559395B2%2Fen"
+      },
+      {
+        "publication_number": "US20170077551A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-16",
+        "publication_date": "2017-03-16",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Nonaqueous electrolyte battery, battery pack, and vehicle",
+        "patent_id": "patent/US20170077551A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20170077551A1%2Fen"
+      },
+      {
+        "publication_number": "US9601809B2",
+        "primary_language": "en",
+        "priority_date": "2012-11-21",
+        "publication_date": "2017-03-21",
+        "assignee_original": "Nec Corporation",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/US9601809B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9601809B2%2Fen"
+      },
+      {
+        "publication_number": "US9601804B2",
+        "primary_language": "en",
+        "priority_date": "2008-11-10",
+        "publication_date": "2017-03-21",
+        "assignee_original": "Samsung Electronics Co., Ltd.",
+        "title": "Gel polymer electrolyte, lithium battery including gel polymer electrolyte, and method of preparing gel polymer electrolyte",
+        "patent_id": "patent/US9601804B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9601804B2%2Fen"
+      },
+      {
+        "publication_number": "US9640840B2",
+        "primary_language": "en",
+        "priority_date": "2013-12-04",
+        "publication_date": "2017-05-02",
+        "assignee_original": "Panasonic Intellectual Property Management Co., Ltd.",
+        "title": "Sodium secondary battery",
+        "patent_id": "patent/US9640840B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9640840B2%2Fen"
+      },
+      {
+        "publication_number": "US9673450B2",
+        "primary_language": "en",
+        "priority_date": "2011-09-02",
+        "publication_date": "2017-06-06",
+        "assignee_original": "Solvay Sa",
+        "title": "Lithium ion battery",
+        "patent_id": "patent/US9673450B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9673450B2%2Fen"
+      },
+      {
+        "publication_number": "US9711776B2",
+        "primary_language": "en",
+        "priority_date": "2014-08-29",
+        "publication_date": "2017-07-18",
+        "assignee_original": "Sumitomo Chemical Company, Limited",
+        "title": "Laminated body, separator, and nonaqueous secondary battery",
+        "patent_id": "patent/US9711776B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9711776B2%2Fen"
+      },
+      {
+        "publication_number": "CN107004902A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-02",
+        "publication_date": "2017-08-01",
+        "assignee_original": "\u585e\u52d2\u521b\u5c3c\u514b\u65af\u516c\u53f8",
+        "title": "The electrolyte composition containing organosilicon with enhanced electrochemistry and heat endurance",
+        "patent_id": "patent/CN107004902A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107004902A%2Fen"
+      },
+      {
+        "publication_number": "US9761910B2",
+        "primary_language": "en",
+        "priority_date": "2014-05-23",
+        "publication_date": "2017-09-12",
+        "assignee_original": "Battelle Energy Alliance, Llc",
+        "title": "Electrolyte solutions including a phosphoranimine compound, and energy storage devices including same",
+        "patent_id": "patent/US9761910B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9761910B2%2Fen"
+      },
+      {
+        "publication_number": "US9806375B2",
+        "primary_language": "en",
+        "priority_date": "2011-01-31",
+        "publication_date": "2017-10-31",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytic solution and nonaqueous electrolytic solution secondary battery using same",
+        "patent_id": "patent/US9806375B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9806375B2%2Fen"
+      },
+      {
+        "publication_number": "US9887435B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-02-19",
+        "publication_date": "2018-02-06",
+        "assignee_original": "Commissariat A L'energie Atomique Et Aux Energies Alternatives",
+        "title": "Electrochemical cell for a lithium-ion battery including a negative electrode made of silicon and a specific electrolyte",
+        "patent_id": "patent/US9887435B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9887435B2%2Fen"
+      },
+      {
+        "publication_number": "US9893381B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-11",
+        "publication_date": "2018-02-13",
+        "assignee_original": "Kanto Denka Kogyo Co., Ltd.",
+        "title": "Nonaqueous electrolyte containing monofluorophosphoric ester salt and nonaqueous secondary battery using same",
+        "patent_id": "patent/US9893381B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9893381B2%2Fen"
+      },
+      {
+        "publication_number": "US9923238B2",
+        "primary_language": "en",
+        "priority_date": "2011-02-10",
+        "publication_date": "2018-03-20",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Non-aqueous electrolyte solution and non-aqueous electrolyte secondary battery employing the same",
+        "patent_id": "patent/US9923238B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9923238B2%2Fen"
+      },
+      {
+        "publication_number": "WO2018066110A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-10-06",
+        "publication_date": "2018-04-12",
+        "assignee_original": "Nec Corporation",
+        "title": "Spacer Included Electrodes Structure and Its Application for High Energy Density and Fast Chargeable Lithium Ion Batteries",
+        "patent_id": "patent/WO2018066110A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018066110A1%2Fen"
+      },
+      {
+        "publication_number": "US9960450B2",
+        "primary_language": "en",
+        "priority_date": "2013-09-24",
+        "publication_date": "2018-05-01",
+        "assignee_original": "Asahi Glass Company, Limited",
+        "title": "Non-aqueous electrolyte solution for secondary batteries, and lithium ion secondary battery",
+        "patent_id": "patent/US9960450B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9960450B2%2Fen"
+      },
+      {
+        "publication_number": "US9979050B2",
+        "primary_language": "en",
+        "priority_date": "2011-09-02",
+        "publication_date": "2018-05-22",
+        "assignee_original": "Solvay Sa",
+        "title": "Fluorinated electrolyte compositions",
+        "patent_id": "patent/US9979050B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9979050B2%2Fen"
+      },
+      {
+        "publication_number": "WO2018138865A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-27",
+        "publication_date": "2018-08-02",
+        "assignee_original": "Nec Corporation",
+        "title": "Silicone ball containing electrode and lithium ion battery including the same",
+        "patent_id": "patent/WO2018138865A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018138865A1%2Fen"
+      },
+      {
+        "publication_number": "US10044066B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-01",
+        "publication_date": "2018-08-07",
+        "assignee_original": "Solvary SA",
+        "title": "Fluorinated electrolyte compositions",
+        "patent_id": "patent/US10044066B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10044066B2%2Fen"
+      },
+      {
+        "publication_number": "US10074874B2",
+        "primary_language": "en",
+        "priority_date": "2012-06-01",
+        "publication_date": "2018-09-11",
+        "assignee_original": "Solvay Sa",
+        "title": "Additives to improve electrolyte performance in lithium ion batteries",
+        "patent_id": "patent/US10074874B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10074874B2%2Fen"
+      },
+      {
+        "publication_number": "US20180261878A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-12-16",
+        "publication_date": "2018-09-13",
+        "assignee_original": "Nec Corporation",
+        "title": "Lithium-ion secondary battery",
+        "patent_id": "patent/US20180261878A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20180261878A1%2Fen"
+      },
+      {
+        "publication_number": "US10199687B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-08-30",
+        "publication_date": "2019-02-05",
+        "assignee_original": "Wildcat Discovery Technologies, Inc",
+        "title": "Electrolyte formulations for electrochemical cells containing a silicon electrode",
+        "patent_id": "patent/US10199687B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10199687B2%2Fen"
+      },
+      {
+        "publication_number": "US10263287B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-15",
+        "publication_date": "2019-04-16",
+        "assignee_original": "Ube Industries, Ltd.",
+        "title": "Non-aqueous electrolyte solution and electricity storage device in which same is used",
+        "patent_id": "patent/US10263287B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10263287B2%2Fen"
+      },
+      {
+        "publication_number": "CN110024200A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2016-12-02",
+        "publication_date": "2019-07-16",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u534a\u5bfc\u4f53\u80fd\u6e90\u7814\u7a76\u6240",
+        "title": "Electrical storage device and electronic equipment",
+        "patent_id": "patent/CN110024200A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110024200A%2Fen"
+      },
+      {
+        "publication_number": "US10381686B2",
+        "primary_language": "en",
+        "priority_date": "2014-07-18",
+        "publication_date": "2019-08-13",
+        "assignee_original": "Nec Corporation",
+        "title": "Electrolyte solution and secondary battery using same",
+        "patent_id": "patent/US10381686B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10381686B2%2Fen"
+      },
+      {
+        "publication_number": "US20190296351A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-03-26",
+        "publication_date": "2019-09-26",
+        "assignee_original": "Kabushiki Kaisha Toshiba",
+        "title": "Electrode, secondary battery, battery pack, and vehicle",
+        "patent_id": "patent/US20190296351A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190296351A1%2Fen"
+      },
+      {
+        "publication_number": "CN110352527A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2019-10-18",
+        "assignee_original": "\u65ed\u5316\u6210\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte, non-aqueous secondary battery, battery pack and hybrid power system",
+        "patent_id": "patent/CN110352527A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110352527A%2Fen"
+      },
+      {
+        "publication_number": "US10505226B2",
+        "primary_language": "en",
+        "priority_date": "2016-02-16",
+        "publication_date": "2019-12-10",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrolyte for lithium battery and lithium battery including the same",
+        "patent_id": "patent/US10505226B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10505226B2%2Fen"
+      },
+      {
+        "publication_number": "US10566605B2",
+        "primary_language": "en",
+        "priority_date": "2014-08-13",
+        "publication_date": "2020-02-18",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrode for rechargeable lithium battery and rechargeable lithium battery including the same",
+        "patent_id": "patent/US10566605B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10566605B2%2Fen"
+      },
+      {
+        "publication_number": "US10622678B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-15",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Nec Corporation",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/US10622678B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10622678B2%2Fen"
+      },
+      {
+        "publication_number": "US10629951B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-05",
+        "publication_date": "2020-04-21",
+        "assignee_original": "Solvay Sa",
+        "title": "Electrolyte composition and a sodium ion battery comprising the same",
+        "patent_id": "patent/US10629951B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10629951B2%2Fen"
+      },
+      {
+        "publication_number": "US10686220B2",
+        "primary_language": "en",
+        "priority_date": "2013-04-04",
+        "publication_date": "2020-06-16",
+        "assignee_original": "Solvay Sa",
+        "title": "Nonaqueous electrolyte compositions",
+        "patent_id": "patent/US10686220B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10686220B2%2Fen"
+      },
+      {
+        "publication_number": "US20200203711A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-21",
+        "publication_date": "2020-06-25",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with anhydride containing electrolyte additives",
+        "patent_id": "patent/US20200203711A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20200203711A1%2Fen"
+      },
+      {
+        "publication_number": "US10707526B2",
+        "primary_language": "en",
+        "priority_date": "2015-03-27",
+        "publication_date": "2020-07-07",
+        "assignee_original": "New Dominion Enterprises Inc.",
+        "title": "All-inorganic solvents for electrolytes",
+        "patent_id": "patent/US10707526B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10707526B2%2Fen"
+      },
+      {
+        "publication_number": "US10707531B1",
+        "primary_language": "en",
+        "priority_date": "2016-09-27",
+        "publication_date": "2020-07-07",
+        "assignee_original": "New Dominion Enterprises Inc.",
+        "title": "All-inorganic solvents for electrolytes",
+        "patent_id": "patent/US10707531B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10707531B1%2Fen"
+      },
+      {
+        "publication_number": "US11133530B2",
+        "primary_language": "en",
+        "priority_date": "2016-08-30",
+        "publication_date": "2021-09-28",
+        "assignee_original": "Wildcat Discovery Technologies, Inc.",
+        "title": "Electrolyte formulations for electrochemical cells containing a silicon electrode",
+        "patent_id": "patent/US11133530B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11133530B2%2Fen"
+      },
+      {
+        "publication_number": "US11171321B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-06-13",
+        "publication_date": "2021-11-09",
+        "assignee_original": "Sumitomo Osaka Cement Co., Ltd.",
+        "title": "Electrode material and method for manufacturing the same",
+        "patent_id": "patent/US11171321B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11171321B2%2Fen"
+      },
+      {
+        "publication_number": "CN113692666A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-10-28",
+        "publication_date": "2021-11-23",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u65b0\u80fd\u6e90",
+        "title": "Lithium-sulfur secondary battery",
+        "patent_id": "patent/CN113692666A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113692666A%2Fen"
+      },
+      {
+        "publication_number": "US20220013812A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-29",
+        "publication_date": "2022-01-13",
+        "assignee_original": "Murata Manufacturing Co., Ltd.",
+        "title": "Electrolytic solution for secondary battery, and secondary battery",
+        "patent_id": "patent/US20220013812A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220013812A1%2Fen"
+      },
+      {
+        "publication_number": "US11322778B2",
+        "primary_language": "en",
+        "priority_date": "2018-05-29",
+        "publication_date": "2022-05-03",
+        "assignee_original": "Wildcat Discovery Technologies, Inc.",
+        "title": "High voltage electrolyte additives",
+        "patent_id": "patent/US11322778B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11322778B2%2Fen"
+      },
+      {
+        "publication_number": "US20220223869A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-01-13",
+        "publication_date": "2022-07-14",
+        "assignee_original": "Nrgtek, Inc.",
+        "title": "Metal-Free High-Voltage Cathodes for Secondary Lithium-Ion and Alkali-Ion Batteries",
+        "patent_id": "patent/US20220223869A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20220223869A1%2Fen"
+      },
+      {
+        "publication_number": "US11515567B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-17",
+        "publication_date": "2022-11-29",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Non-aqueous electrolyte solution, non-aqueous secondary battery, cell pack, and hybrid power system",
+        "patent_id": "patent/US11515567B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11515567B2%2Fen"
+      },
+      {
+        "publication_number": "US11664547B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-22",
+        "publication_date": "2023-05-30",
+        "assignee_original": "Form Energy, Inc.",
+        "title": "Moisture and carbon dioxide management system in electrochemical cells",
+        "patent_id": "patent/US11664547B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11664547B2%2Fen"
+      },
+      {
+        "publication_number": "US11870036B2",
+        "primary_language": "en",
+        "priority_date": "2018-07-02",
+        "publication_date": "2024-01-09",
+        "assignee_original": "Lg Energy Solution, Ltd.",
+        "title": "Lithium secondary battery having improved high-temperature characteristics",
+        "patent_id": "patent/US11870036B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11870036B2%2Fen"
+      },
+      {
+        "publication_number": "US12074287B2",
+        "primary_language": "en",
+        "priority_date": "2018-07-06",
+        "publication_date": "2024-08-27",
+        "assignee_original": "Samsung Sdi Co., Ltd.",
+        "title": "Electrolyte for lithium secondary battery, and lithium secondary battery including same",
+        "patent_id": "patent/US12074287B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12074287B2%2Fen"
+      },
+      {
+        "publication_number": "US12136723B2",
+        "primary_language": "en",
+        "priority_date": "2016-07-22",
+        "publication_date": "2024-11-05",
+        "assignee_original": "Form Energy, Inc.",
+        "title": "Mist elimination system for electrochemical cells",
+        "patent_id": "patent/US12136723B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12136723B2%2Fen"
+      },
+      {
+        "publication_number": "US12237548B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-29",
+        "publication_date": "2025-02-25",
+        "assignee_original": "Form Energy, Inc.",
+        "title": "Stack of electric batteries including series of fluidly connected unit cells",
+        "patent_id": "patent/US12237548B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12237548B2%2Fen"
+      },
+      {
+        "publication_number": "US12261281B2",
+        "primary_language": "en",
+        "priority_date": "2018-06-29",
+        "publication_date": "2025-03-25",
+        "assignee_original": "Form Energy, Inc.",
+        "title": "Metal air electrochemical cell architecture",
+        "patent_id": "patent/US12261281B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12261281B2%2Fen"
+      },
+      {
+        "publication_number": "US12308414B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-28",
+        "publication_date": "2025-05-20",
+        "assignee_original": "Form Energy, Inc.",
+        "title": "Device architectures for metal-air batteries",
+        "patent_id": "patent/US12308414B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12308414B2%2Fen"
+      },
+      {
+        "publication_number": "US12341157B2",
+        "primary_language": "en",
+        "priority_date": "2020-03-06",
+        "publication_date": "2025-06-24",
+        "assignee_original": "Lg Energy Solution, Ltd.",
+        "title": "Lithium-sulfur battery electrolyte and lithium-sulfur battery including same",
+        "patent_id": "patent/US12341157B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12341157B2%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "KR102561875B1",
+        "primary_language": "en",
+        "priority_date": "2007-04-05",
+        "publication_date": "2023-07-31",
+        "assignee_original": "\ubbf8\ucbd4\ube44\uc2dc \ucf00\ubbf8\uceec \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Nonaqueous electrolyte for rechargeable battery, and rechargeable battery with nonaqueous electrolyte",
+        "patent_id": "patent/KR102561875B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102561875B1%2Fen"
+      },
+      {
+        "publication_number": "US20110159370A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-10-31",
+        "publication_date": "2011-06-30",
+        "assignee_original": "Akira Inaba",
+        "title": "Nonaqueous secondary battery",
+        "patent_id": "patent/US20110159370A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110159370A1%2Fen"
+      },
+      {
+        "publication_number": "JP5549438B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-07-30",
+        "publication_date": "2014-07-16",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and non-aqueous electrolyte secondary battery using the same",
+        "patent_id": "patent/JP5549438B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5549438B2%2Fen"
+      },
+      {
+        "publication_number": "JP5299164B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-08-19",
+        "publication_date": "2013-09-25",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte and non-aqueous electrolyte battery",
+        "patent_id": "patent/JP5299164B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5299164B2%2Fen"
+      },
+      {
+        "publication_number": "US9806377B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-12-07",
+        "publication_date": "2017-10-31",
+        "assignee_original": "Sony Corporation",
+        "title": "Secondary battery, electrolytic solution, battery pack, electronic device, and electrical vehicle",
+        "patent_id": "patent/US9806377B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9806377B2%2Fen"
+      },
+      {
+        "publication_number": "WO2013073901A1",
+        "primary_language": "en",
+        "priority_date": "2011-11-16",
+        "publication_date": "2013-05-23",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Non-aqueous electrolyte solution for lithium secondary battery and lithium secondary battery comprising same",
+        "patent_id": "patent/WO2013073901A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013073901A1%2Fen"
+      },
+      {
+        "publication_number": "JP5874390B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-12-28",
+        "publication_date": "2016-03-02",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP5874390B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5874390B2%2Fen"
+      },
+      {
+        "publication_number": "WO2013191885A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-06-19",
+        "publication_date": "2013-12-27",
+        "assignee_original": "Leyden Energy, Inc.",
+        "title": "Electrolytes including fluorinated solvents for use in electrochemical cells",
+        "patent_id": "patent/WO2013191885A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013191885A1%2Fen"
+      },
+      {
+        "publication_number": "KR102202221B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-08-09",
+        "publication_date": "2021-01-14",
+        "assignee_original": "\ubbf8\ucbd4\ube44\uc2dc \ucf00\ubbf8\uceec \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Nonaqueous electrolyte solution and nonaqueous electrolyte secondary battery using same",
+        "patent_id": "patent/KR102202221B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102202221B1%2Fen"
+      },
+      {
+        "publication_number": "US20150270577A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-01-15",
+        "publication_date": "2015-09-24",
+        "assignee_original": "Panasonic Intellectual Property Management Co., Ltd.",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/US20150270577A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20150270577A1%2Fen"
+      },
+      {
+        "publication_number": "US11165099B2",
+        "primary_language": "en",
+        "priority_date": "2018-12-21",
+        "publication_date": "2021-11-02",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with cyclic organosilicon containing electrolyte additives",
+        "patent_id": "patent/US11165099B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11165099B2%2Fen"
+      },
+      {
+        "publication_number": "US9991060B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-14",
+        "publication_date": "2018-06-05",
+        "assignee_original": "Maxwell Technologies, Inc.",
+        "title": "Energy storage device with enhanced energy density",
+        "patent_id": "patent/US9991060B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS9991060B2%2Fen"
+      },
+      {
+        "publication_number": "EP2824750B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-07-08",
+        "publication_date": "2019-01-30",
+        "assignee_original": "Samsung SDI Co., Ltd.",
+        "title": "Silicon-containing compound used in electrolytes for lithium secondary batteries",
+        "patent_id": "patent/EP2824750B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2824750B1%2Fen"
+      },
+      {
+        "publication_number": "KR102240720B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-04-09",
+        "publication_date": "2021-04-14",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery including the same",
+        "patent_id": "patent/KR102240720B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102240720B1%2Fen"
+      },
+      {
+        "publication_number": "WO2015195595A1",
+        "primary_language": "en",
+        "priority_date": "2014-06-17",
+        "publication_date": "2015-12-23",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Semi-solid electrolytes for batteries",
+        "patent_id": "patent/WO2015195595A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2015195595A1%2Fen"
+      },
+      {
+        "publication_number": "TWI599092B",
+        "primary_language": "en",
+        "priority_date": "2014-08-08",
+        "publication_date": "2017-09-11",
+        "assignee_original": "Kureha Corp",
+        "title": "Non-Aqueous Electrolyte Secondary Battery Negative Carbonaceous Material",
+        "patent_id": "patent/TWI599092B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI599092B%2Fen"
+      },
+      {
+        "publication_number": "TWI565654B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-08-08",
+        "publication_date": "2017-01-11",
+        "assignee_original": "Kureha Corp",
+        "title": "Production method of carbonaceous material for negative electrode of nonaqueous electrolyte secondary battery and carbonaceous material for negative electrode of nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/TWI565654B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI565654B%2Fen"
+      },
+      {
+        "publication_number": "TWI604655B",
+        "primary_language": "en",
+        "priority_date": "2014-08-08",
+        "publication_date": "2017-11-01",
+        "assignee_original": "Kureha Corp",
+        "title": "Non-aqueous electrolyte secondary battery negative carbonaceous material",
+        "patent_id": "patent/TWI604655B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FTWI604655B%2Fen"
+      },
+      {
+        "publication_number": "KR102221799B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-22",
+        "publication_date": "2021-03-02",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/KR102221799B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102221799B1%2Fen"
+      },
+      {
+        "publication_number": "US10333173B2",
+        "primary_language": "en",
+        "priority_date": "2014-11-14",
+        "publication_date": "2019-06-25",
+        "assignee_original": "Medtronic, Inc.",
+        "title": "Composite separator and electrolyte for solid state batteries",
+        "patent_id": "patent/US10333173B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10333173B2%2Fen"
+      },
+      {
+        "publication_number": "KR102411931B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-02-06",
+        "publication_date": "2022-06-22",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/KR102411931B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102411931B1%2Fen"
+      },
+      {
+        "publication_number": "JP5822044B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-04-17",
+        "publication_date": "2015-11-24",
+        "assignee_original": "\u5b87\u90e8\u8208\u7523\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte, and lithium ion secondary battery and lithium ion capacitor using the same",
+        "patent_id": "patent/JP5822044B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5822044B1%2Fen"
+      },
+      {
+        "publication_number": "KR102446364B1",
+        "primary_language": "en",
+        "priority_date": "2015-09-03",
+        "publication_date": "2022-09-21",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery",
+        "patent_id": "patent/KR102446364B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102446364B1%2Fen"
+      },
+      {
+        "publication_number": "KR102472905B1",
+        "primary_language": "en",
+        "priority_date": "2015-09-04",
+        "publication_date": "2022-12-01",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte and lithium battery including the electrolyte",
+        "patent_id": "patent/KR102472905B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102472905B1%2Fen"
+      },
+      {
+        "publication_number": "EP3357115A1",
+        "primary_language": "en",
+        "priority_date": "2015-10-02",
+        "publication_date": "2018-08-08",
+        "assignee_original": "Sion Power Corporation",
+        "title": "Non-aqueous electrolytes for high energy lithium-ion batteries",
+        "patent_id": "patent/EP3357115A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3357115A1%2Fen"
+      },
+      {
+        "publication_number": "WO2017061464A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-09",
+        "publication_date": "2017-04-13",
+        "assignee_original": "\u5b87\u90e8\u8208\u7523\u682a\u5f0f\u4f1a\u793e",
+        "title": "Nonaqueous electrolyte solution and electricity storage device using same",
+        "patent_id": "patent/WO2017061464A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017061464A1%2Fen"
+      },
+      {
+        "publication_number": "HUE053993T2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-10-22",
+        "publication_date": "2021-08-30",
+        "assignee_original": "Daikin Ind Ltd",
+        "title": "Electrolytic solution, electrochemical device, lithium-ion secondary cell, and module",
+        "patent_id": "patent/HUE053993T2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FHUE053993T2%2Fen"
+      },
+      {
+        "publication_number": "KR102810119B1",
+        "primary_language": "en",
+        "priority_date": "2015-11-13",
+        "publication_date": "2025-05-19",
+        "assignee_original": "\uc2dc\uc628 \ud30c\uc6cc \ucf54\ud37c\ub808\uc774\uc158",
+        "title": "Additives for electrochemical cells",
+        "patent_id": "patent/KR102810119B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102810119B1%2Fen"
+      },
+      {
+        "publication_number": "KR20170072032A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-12-16",
+        "publication_date": "2017-06-26",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery including the same",
+        "patent_id": "patent/KR20170072032A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20170072032A%2Fen"
+      },
+      {
+        "publication_number": "WO2017131997A1",
+        "primary_language": "en",
+        "priority_date": "2016-01-28",
+        "publication_date": "2017-08-03",
+        "assignee_original": "Applied Materials, Inc.",
+        "title": "Integrated lithium deposition with protective layer tool",
+        "patent_id": "patent/WO2017131997A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2017131997A1%2Fen"
+      },
+      {
+        "publication_number": "KR102112207B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-26",
+        "publication_date": "2020-05-19",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\ud654\ud559",
+        "title": "Non-aqueous electrolyte solution and lithium secondary battery comprising the same",
+        "patent_id": "patent/KR102112207B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102112207B1%2Fen"
+      },
+      {
+        "publication_number": "US10868306B2",
+        "primary_language": "en",
+        "priority_date": "2017-05-19",
+        "publication_date": "2020-12-15",
+        "assignee_original": "Sion Power Corporation",
+        "title": "Passivating agents for electrochemical cells",
+        "patent_id": "patent/US10868306B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10868306B2%2Fen"
+      },
+      {
+        "publication_number": "WO2018213661A2",
+        "primary_language": "en",
+        "priority_date": "2017-05-19",
+        "publication_date": "2018-11-22",
+        "assignee_original": "Sion Power Corporation",
+        "title": "Passivating agents for electrochemical cells",
+        "patent_id": "patent/WO2018213661A2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018213661A2%2Fen"
+      },
+      {
+        "publication_number": "CN109148951B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-06-28",
+        "publication_date": "2020-10-13",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte and lithium ion battery",
+        "patent_id": "patent/CN109148951B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109148951B%2Fen"
+      },
+      {
+        "publication_number": "US20190036171A1",
+        "primary_language": "en",
+        "priority_date": "2017-07-31",
+        "publication_date": "2019-01-31",
+        "assignee_original": "Tesla Motors Canada ULC",
+        "title": "Novel battery systems based on two-additive electrolyte systems",
+        "patent_id": "patent/US20190036171A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20190036171A1%2Fen"
+      },
+      {
+        "publication_number": "US11961959B2",
+        "primary_language": "en",
+        "priority_date": "2017-07-31",
+        "publication_date": "2024-04-16",
+        "assignee_original": "Tesla, Inc.",
+        "title": "Battery systems based on lithium difluorophosphate",
+        "patent_id": "patent/US11961959B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11961959B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019025980A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-07-31",
+        "publication_date": "2019-02-07",
+        "assignee_original": "Tesla Motors Canada ULC",
+        "title": "Novel battery systems based on lithium difluorophosphate",
+        "patent_id": "patent/WO2019025980A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019025980A1%2Fen"
+      },
+      {
+        "publication_number": "US11581523B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-10-19",
+        "publication_date": "2023-02-14",
+        "assignee_original": "Sila Nanotechnologies, Inc.",
+        "title": "Anode electrode composition of Li-ion battery cell",
+        "patent_id": "patent/US11581523B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11581523B2%2Fen"
+      },
+      {
+        "publication_number": "US10804562B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-06",
+        "publication_date": "2020-10-13",
+        "assignee_original": "Tesla Motors Canada ULC",
+        "title": "Method and system for determining concentration of electrolyte components for lithium-ion cells",
+        "patent_id": "patent/US10804562B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10804562B2%2Fen"
+      },
+      {
+        "publication_number": "US11283069B2",
+        "primary_language": "en",
+        "priority_date": "2017-12-07",
+        "publication_date": "2022-03-22",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with fluorinated cyclic compound containing electrolyte additives",
+        "patent_id": "patent/US11283069B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11283069B2%2Fen"
+      },
+      {
+        "publication_number": "WO2019113518A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-12-07",
+        "publication_date": "2019-06-13",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with linear carbonate containing electrolyte additives",
+        "patent_id": "patent/WO2019113518A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019113518A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019113528A1",
+        "primary_language": "en",
+        "priority_date": "2017-12-07",
+        "publication_date": "2019-06-13",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with carboxylic ether, carboxylic acid based salt, or acrylate electrolyte containing electrolyte additives",
+        "patent_id": "patent/WO2019113528A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019113528A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019113530A1",
+        "primary_language": "en",
+        "priority_date": "2017-12-07",
+        "publication_date": "2019-06-13",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with ether containing electrolyte additives",
+        "patent_id": "patent/WO2019113530A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019113530A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019113526A1",
+        "primary_language": "en",
+        "priority_date": "2017-12-07",
+        "publication_date": "2019-06-13",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with fluorinated polymer containing electrolyte additives",
+        "patent_id": "patent/WO2019113526A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019113526A1%2Fen"
+      },
+      {
+        "publication_number": "WO2019146137A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-01-24",
+        "publication_date": "2019-08-01",
+        "assignee_original": "\u30d1\u30a4\u30aa\u30c8\u30ec\u30c3\u30af\u682a\u5f0f\u4f1a\u793e",
+        "title": "Separator-less conductive polymer solid electrolyte secondary battery",
+        "patent_id": "patent/WO2019146137A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019146137A1%2Fen"
+      },
+      {
+        "publication_number": "CN108258316A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-04-11",
+        "publication_date": "2018-07-06",
+        "assignee_original": "\u5c71\u4e1c\u6d77\u5bb9\u7535\u6e90\u6750\u6599\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium battery electrolytes",
+        "patent_id": "patent/CN108258316A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108258316A%2Fen"
+      },
+      {
+        "publication_number": "CN109053807B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-07-13",
+        "publication_date": "2021-03-19",
+        "assignee_original": "\u73e0\u6d77\u5e02\u8d5b\u7eac\u7535\u5b50\u6750\u6599\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of pentafluorophosphazene-based difluorophosphate",
+        "patent_id": "patent/CN109053807B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109053807B%2Fen"
+      },
+      {
+        "publication_number": "US20210344046A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-14",
+        "publication_date": "2021-11-04",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Nonaqueous Electrolytic Solution and Nonaqueous Secondary Battery",
+        "patent_id": "patent/US20210344046A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20210344046A1%2Fen"
+      },
+      {
+        "publication_number": "CN110970661A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-09-28",
+        "publication_date": "2020-04-07",
+        "assignee_original": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Non-aqueous electrolyte and lithium ion battery",
+        "patent_id": "patent/CN110970661A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN110970661A%2Fen"
+      },
+      {
+        "publication_number": "KR102739840B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-01-16",
+        "publication_date": "2024-12-05",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "LITHIUM SECONDARY BATTERY COMPRISING Si-BASED COMPOUND WITH EXCELLENT ENERGY DENSITY",
+        "patent_id": "patent/KR102739840B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102739840B1%2Fen"
+      },
+      {
+        "publication_number": "JP7145467B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-03-20",
+        "publication_date": "2022-10-03",
+        "assignee_original": "\u30d1\u30ca\u30bd\u30cb\u30c3\u30af\uff29\uff50\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u682a\u5f0f\u4f1a\u793e",
+        "title": "lithium primary battery",
+        "patent_id": "patent/JP7145467B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7145467B2%2Fen"
+      },
+      {
+        "publication_number": "CN111864263A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-29",
+        "publication_date": "2020-10-30",
+        "assignee_original": "\u4e2d\u56fd\u79d1\u5b66\u9662\u798f\u5efa\u7269\u8d28\u7ed3\u6784\u7814\u7a76\u6240",
+        "title": "A kind of electrolyte for lithium ion battery silicon carbon negative electrode",
+        "patent_id": "patent/CN111864263A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111864263A%2Fen"
+      },
+      {
+        "publication_number": "US11398641B2",
+        "primary_language": "en",
+        "priority_date": "2019-06-05",
+        "publication_date": "2022-07-26",
+        "assignee_original": "Enevate Corporation",
+        "title": "Silicon-based energy storage devices with silicon containing electrolyte additives",
+        "patent_id": "patent/US11398641B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11398641B2%2Fen"
+      },
+      {
+        "publication_number": "KR102460958B1",
+        "primary_language": "en",
+        "priority_date": "2019-07-16",
+        "publication_date": "2022-10-31",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte additive for lithium secondary battery, electrolyte for lithium secondary battery including the electrolyte additive, and lithium secondary battery including the electrolyte",
+        "patent_id": "patent/KR102460958B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102460958B1%2Fen"
+      },
+      {
+        "publication_number": "CN114450820B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-09-30",
+        "publication_date": "2024-05-28",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6751\u7530\u5236\u4f5c\u6240",
+        "title": "Secondary battery",
+        "patent_id": "patent/CN114450820B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114450820B%2Fen"
+      },
+      {
+        "publication_number": "CN111987360B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-11-27",
+        "publication_date": "2021-10-08",
+        "assignee_original": "\u4e2d\u8282\u80fd\u4e07\u6da6\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Lithium ion battery-based electrolyte additive and application thereof",
+        "patent_id": "patent/CN111987360B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111987360B%2Fen"
+      },
+      {
+        "publication_number": "CN112055910B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-26",
+        "publication_date": "2023-02-03",
+        "assignee_original": "\u5b81\u5fb7\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte and electrochemical device",
+        "patent_id": "patent/CN112055910B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN112055910B%2Fen"
+      },
+      {
+        "publication_number": "JP7353459B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-06",
+        "publication_date": "2023-09-29",
+        "assignee_original": "\u30a8\u30eb\u30b8\u30fc \u30a8\u30ca\u30b8\u30fc \u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3 \u30ea\u30df\u30c6\u30c3\u30c9",
+        "title": "Electrolyte for lithium-sulfur batteries and lithium-sulfur batteries containing the same",
+        "patent_id": "patent/JP7353459B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7353459B2%2Fen"
+      },
+      {
+        "publication_number": "KR102614016B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-04-14",
+        "publication_date": "2023-12-13",
+        "assignee_original": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc544\uc774 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for rechargeable lithium battery and rechargeable lithium battery comprising the same",
+        "patent_id": "patent/KR102614016B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102614016B1%2Fen"
+      },
+      {
+        "publication_number": "CN116648807A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-08-14",
+        "publication_date": "2023-08-25",
+        "assignee_original": "\u8fbe\u7279\u8305\u65af\u5b66\u9662\u6258\u7ba1\u4f1a",
+        "title": "Acyclic ether/cyclic ether based electrolytes beyond the low temperature limit of sodium metal anodes",
+        "patent_id": "patent/CN116648807A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116648807A%2Fen"
+      },
+      {
+        "publication_number": "CN114946065A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-09",
+        "publication_date": "2022-08-26",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793eLg\u65b0\u80fd\u6e90",
+        "title": "Nonaqueous electrolyte for lithium secondary battery and lithium secondary battery containing the same",
+        "patent_id": "patent/CN114946065A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114946065A%2Fen"
+      },
+      {
+        "publication_number": "WO2022197984A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-03-19",
+        "publication_date": "2022-09-22",
+        "assignee_original": "Soelect Inc.",
+        "title": "Semisolid electrolyte membrane and method of fabrication thereof",
+        "patent_id": "patent/WO2022197984A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2022197984A1%2Fen"
+      },
+      {
+        "publication_number": "EP4399192A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-08",
+        "publication_date": "2024-07-17",
+        "assignee_original": "Koppers Delaware, Inc.",
+        "title": "Dispersion of coal tar pitch for coating graphitic materials and use in li-ion battery electrode production",
+        "patent_id": "patent/EP4399192A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP4399192A1%2Fen"
+      },
+      {
+        "publication_number": "KR102732917B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-10-22",
+        "publication_date": "2024-11-25",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "Non-aqueous electrolyte solution for lithium secondary battery and lithium secondary battery comprising the same",
+        "patent_id": "patent/KR102732917B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102732917B1%2Fen"
+      },
+      {
+        "publication_number": "CN115377498A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-09-23",
+        "publication_date": "2022-11-22",
+        "assignee_original": "\u73e0\u6d77\u51a0\u5b87\u7535\u6c60\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte and battery",
+        "patent_id": "patent/CN115377498A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115377498A%2Fen"
+      },
+      {
+        "publication_number": "CN115498267A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-10-25",
+        "publication_date": "2022-12-20",
+        "assignee_original": "\u8fdc\u666f\u52a8\u529b\u6280\u672f(\u6c5f\u82cf)\u6709\u9650\u516c\u53f8",
+        "title": "Phosphorus-containing compounds for lithium-ion batteries, non-aqueous electrolytes and lithium-ion batteries",
+        "patent_id": "patent/CN115498267A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN115498267A%2Fen"
+      },
+      {
+        "publication_number": "US12266758B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-11-23",
+        "publication_date": "2025-04-01",
+        "assignee_original": "Toyota Motor Engineering & Manufacturing North America, Inc.",
+        "title": "Polymer electrolyte for a solid state battery",
+        "patent_id": "patent/US12266758B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS12266758B2%2Fen"
+      },
+      {
+        "publication_number": "WO2024136529A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-21",
+        "publication_date": "2024-06-27",
+        "assignee_original": "\uc8fc\uc2dd\ud68c\uc0ac \uc5d8\uc9c0\uc5d0\ub108\uc9c0\uc194\ub8e8\uc158",
+        "title": "Lithium secondary battery",
+        "patent_id": "patent/WO2024136529A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2024136529A1%2Fen"
+      },
+      {
+        "publication_number": "KR20240105049A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2022-12-28",
+        "publication_date": "2024-07-05",
+        "assignee_original": "\uc5d0\uc2a4\ucf00\uc774\uc628 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Electrolyte for lithium secondary battery and lithium secondary battery including the same",
+        "patent_id": "patent/KR20240105049A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20240105049A%2Fen"
+      },
+      {
+        "publication_number": "JP2024113394A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-09",
+        "publication_date": "2024-08-22",
+        "assignee_original": "\u30d7\u30e9\u30a4\u30e0\u30d7\u30e9\u30cd\u30c3\u30c8\u30a8\u30ca\u30b8\u30fc\uff06\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30ba\u682a\u5f0f\u4f1a\u793e",
+        "title": "Energy Storage Devices",
+        "patent_id": "patent/JP2024113394A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2024113394A%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US11367899B2",
+      "primary_language": "en",
+      "publication_date": "2022-06-21",
+      "title": "Nonaqueous electrolyte for secondary battery and nonaqueous-electrolyte secondary battery employing the same",
+      "patent_id": "patent/US11367899B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11367899B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN108091826A",
+      "primary_language": "en",
+      "publication_date": "2018-05-29",
+      "title": "Nonaqueous electrolytic solution for secondary battery and nonaqueous electrolyte secondary battery using the nonaqueous electrolytic solution",
+      "patent_id": "patent/CN108091826A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN108091826A%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2010-01-20",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION,JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TOKUDA, HIROYUKI;FUJII, TAKASHI;KOTATO, MINORU;AND OTHERS;REEL/FRAME:023816/0411"
+        },
+        {
+          "label": "Effective date",
+          "value": "20091201"
+        },
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TOKUDA, HIROYUKI;FUJII, TAKASHI;KOTATO, MINORU;AND OTHERS;REEL/FRAME:023816/0411"
+        },
+        {
+          "label": "Effective date",
+          "value": "20091201"
+        }
+      ]
+    },
+    {
+      "date": "2016-02-17",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI RAYON CO., LTD., JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:043750/0207"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170401"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:MITSUBISHI RAYON CO., LTD.;REEL/FRAME:043750/0834"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170401"
+        }
+      ]
+    },
+    {
+      "date": "2019-08-22",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MU IONIC SOLUTIONS CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "SPLIT ASSIGNMENT;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:054678/0763"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201001"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MU IONIC SOLUTIONS CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE SPLIT ASSIGNEE INFORMATION PREVIOUSLY RECORDED AT REEL: 054678 FRAME: 0763. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:055304/0658"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201001"
+        },
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE SPLIT ASSIGNEE INFORMATION PREVIOUSLY RECORDED AT REEL: 054678 FRAME: 0763. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:055304/0658"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201001"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    }
+  ]
+}

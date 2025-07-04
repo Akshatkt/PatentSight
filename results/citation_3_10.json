@@ -1,0 +1,1257 @@
+{
+  "search_metadata": {
+    "id": "6867ae5180c9635eb325240e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/af5dfdd73aa34169/6867ae5180c9635eb325240e.json",
+    "created_at": "2025-07-04 10:34:57 UTC",
+    "processed_at": "2025-07-04 10:34:57 UTC",
+    "google_patents_details_url": "https://patents.google.com/patent/US20080102376A1/en",
+    "raw_html_file": "https://serpapi.com/searches/af5dfdd73aa34169/6867ae5180c9635eb325240e.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google_patents_details",
+    "patent_id": "patent/US20080102376A1/en"
+  },
+  "title": "Method for Producing Difluorophosphate, Nonaqueous Electrolyte Solution for Secondary Battery and Nonaqueous Electrolyte Secondary Battery",
+  "type": "patent",
+  "pdf": "https://patentimages.storage.googleapis.com/55/d0/fb/968a301d581628/US20080102376A1.pdf",
+  "publication_number": "US20080102376A1",
+  "country": "United States",
+  "prior_art_keywords": [
+    "nonaqueous electrolyte",
+    "electrolyte solution",
+    "carbonate",
+    "secondary battery",
+    "difluorophosphate"
+  ],
+  "prior_art_date": "2004-10-19",
+  "application_number": "US11/577,466",
+  "inventors": [
+    {
+      "name": "Ryoichi Kato",
+      "link": "https://patents.google.com/?inventor=Ryoichi+Kato",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Ryoichi+Kato"
+    },
+    {
+      "name": "Hitoshi Suzuki",
+      "link": "https://patents.google.com/?inventor=Hitoshi+Suzuki",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents&inventor=Hitoshi+Suzuki"
+    }
+  ],
+  "assignees": [
+    "Mitsubishi Chemical Corp",
+    "MU Ionic Solutions Corp"
+  ],
+  "priority_date": "2004-10-19",
+  "filing_date": "2005-10-18",
+  "publication_date": "2008-05-01",
+  "worldwide_applications": {
+    "2005": [
+      {
+        "filing_date": "2005-10-18",
+        "country_code": "WO",
+        "application_number": "PCT/JP2005/019105",
+        "document_id": "patent/WO2006043538A1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Application Filing"
+      },
+      {
+        "filing_date": "2005-10-18",
+        "country_code": "US",
+        "application_number": "US11/577,466",
+        "document_id": "patent/US8076033B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active",
+        "this_app": true
+      },
+      {
+        "filing_date": "2005-10-18",
+        "country_code": "CN",
+        "application_number": "CN200580043400XA",
+        "document_id": "patent/CN101080361B/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      },
+      {
+        "filing_date": "2005-10-18",
+        "country_code": "KR",
+        "application_number": "KR1020077008947A",
+        "document_id": "patent/KR101227445B1/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ],
+    "2011": [
+      {
+        "filing_date": "2011-03-22",
+        "country_code": "US",
+        "application_number": "US13/053,874",
+        "document_id": "patent/US8137848B2/en",
+        "legal_status_cat": "active",
+        "legal_status": "Active"
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": "2005-10-18",
+      "title": "Application filed by Mitsubishi Chemical Corp",
+      "type": "filed",
+      "critical": true,
+      "assignee_search": "Mitsubishi Chemical Corp"
+    },
+    {
+      "date": "2007-11-28",
+      "title": "Assigned to MITSUBISHI CHEMICAL CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI CHEMICAL CORPORATION",
+      "description": [
+        "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: SUZUKI, HITOSHI, KATO, RYOICHI"
+      ]
+    },
+    {
+      "date": "2008-05-01",
+      "title": "Publication of US20080102376A1",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US20080102376A1/en"
+    },
+    {
+      "date": "2011-12-13",
+      "title": "Application granted",
+      "type": "granted",
+      "critical": true
+    },
+    {
+      "date": "2011-12-13",
+      "title": "Publication of US8076033B2",
+      "type": "publication",
+      "critical": true,
+      "document_id": "patent/US8076033B2/en"
+    },
+    {
+      "date": "2017-09-04",
+      "title": "Assigned to MITSUBISHI RAYON CO., LTD.",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI RAYON CO., LTD.",
+      "description": [
+        "MERGER (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MITSUBISHI CHEMICAL CORPORATION"
+      ]
+    },
+    {
+      "date": "2017-09-05",
+      "title": "Assigned to MITSUBISHI CHEMICAL CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI CHEMICAL CORPORATION",
+      "description": [
+        "CHANGE OF NAME (SEE DOCUMENT FOR DETAILS).",
+        "Assignors: MITSUBISHI RAYON CO., LTD."
+      ]
+    },
+    {
+      "date": "2020-12-10",
+      "title": "Assigned to MU IONIC SOLUTIONS CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MU IONIC SOLUTIONS CORPORATION",
+      "description": [
+        "SPLIT ASSIGNMENT",
+        "Assignors: MITSUBISHI CHEMICAL CORPORATION"
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "title": "Assigned to MITSUBISHI CHEMICAL CORPORATION, MU IONIC SOLUTIONS CORPORATION",
+      "type": "reassignment",
+      "assignee_search": "MITSUBISHI CHEMICAL CORPORATION",
+      "description": [
+        "CORRECTIVE ASSIGNMENT TO CORRECT THE SPLIT ASSIGNEE INFORMATION PREVIOUSLY RECORDED AT REEL: 054678 FRAME: 0763. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT.",
+        "Assignors: MITSUBISHI CHEMICAL CORPORATION"
+      ]
+    },
+    {
+      "date": "Status",
+      "title": "Active",
+      "type": "legal-status",
+      "critical": true,
+      "current": true
+    },
+    {
+      "date": "2028-07-22",
+      "title": "Adjusted expiration",
+      "type": "legal-status",
+      "critical": true
+    }
+  ],
+  "external_links": [
+    {
+      "text": "USPTO",
+      "link": "https://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20080102376.PGNR."
+    },
+    {
+      "text": "USPTO PatentCenter",
+      "link": "https://patentcenter.uspto.gov/applications/11577466"
+    },
+    {
+      "text": "USPTO Assignment",
+      "link": "https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=20080102376"
+    },
+    {
+      "text": "Espacenet",
+      "link": "https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2008102376A1&KC=A1&FT=D"
+    },
+    {
+      "text": "Global Dossier",
+      "link": "https://globaldossier.uspto.gov/result/application/US/11577466/1"
+    },
+    {
+      "text": "Discuss",
+      "link": "https://patents.stackexchange.com/questions/tagged/US20080102376"
+    }
+  ],
+  "classifications": [
+    {
+      "code": "H01M10/0525",
+      "description": "Rocking-chair batteries, i.e. batteries with lithium insertion or intercalation in both electrodes; Lithium-ion batteries",
+      "leaf": true,
+      "first_code": true,
+      "is_cpc": true
+    },
+    {
+      "code": "C01B25/455",
+      "description": "Phosphates containing halogen",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/05",
+      "description": "Accumulators with non-aqueous electrolyte",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M10/0568",
+      "description": "Liquid materials characterised by the solutes",
+      "leaf": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M2300/004",
+      "description": "Three solvents",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/131",
+      "description": "Electrodes based on mixed oxides or hydroxides, or on mixtures of oxides or hydroxides, e.g. LiCoOx",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/133",
+      "description": "Electrodes based on carbonaceous material, e.g. graphite-intercalation compounds or CFx",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "H01M4/587",
+      "description": "Carbonaceous material, e.g. graphite-intercalation compounds or CFx for inserting or intercalating light metals",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    },
+    {
+      "code": "Y02E60/10",
+      "description": "Energy storage using batteries",
+      "leaf": true,
+      "additional": true,
+      "is_cpc": true
+    }
+  ],
+  "abstract": "The present invention provides a simple method for producing a difluorophosphate from a source material, the difluorophosphate being useful as additives for nonaqueous electrolyte solutions for secondary batteries. In the method, a source material containing a carbonate and/or a borate is allowed to react with a source gas which contains P and F and which may further contain O as required. The source material may contain lithium carbonate. The source gas may be produced by decomposing LiPF6. The source gas may be produced in such a manner that LiPF6 and lithium carbonate are mixed and then subjected to reaction. The nonaqueous electrolyte solution contains the product obtained from the reaction.",
+  "description_link": "https://serpapi.com/searches/6867ae5180c9635eb325240e/google_patents_details/description.html",
+  "claims": [
+    "1. A method for producing a difluorophosphate, comprising a step of bringing a source gas into contact with a source material containing at least one of a carbonate and a borate,\nwherein the source gas contains at least one of a phosphorus compound consisting of P and F and a phosphorus compound consisting of P, F, and O.",
+    "2. The method according to claim 1, wherein the phosphorus compound is at least one of PF5 and POF3.",
+    "3. The method according to claim 1, wherein the source material contains at least one selected from the group consisting of alkali metal salts alkaline-earth metal salts, and NR1R2R3R4 salts, where R1 to R4 may be the same or different from each other and represent hydrogen atoms or organic groups with one to twelve carbon atoms.",
+    "4. The method according to claim 1, wherein the phosphorus compound is produced by decomposing LiPF6.",
+    "5. The method according to claim 1, wherein the source material is allowed to react with the phosphorus compound in such a manner that the source material is heated in a hermetically sealed reaction chamber such that the phosphorus compound is present in an atmosphere in the reaction chamber, whereby the difluorophosphate is produced.",
+    "6. The method according to claim 5, wherein LiPF6 is heated in the reaction chamber such that the phosphorus compound is present in the atmosphere.",
+    "7. The method according to claim 1, wherein the contact of the source material with the source gas is carried out in a solvent.",
+    "8. The method according to claim 6, wherein LiPF6 is decomposed in such a state that LiPF6 is mixed with the source material, whereby the phosphorus compound is produced.",
+    "9. The method according to claim 1, wherein the source material contains lithium carbonate.",
+    "10. A method for producing a difluorophosphate, comprising a step mixing LiPF6 with a source material containing at least one of a carbonate and a borate and then heating the mixture.",
+    "11. A difluorophosphate composition having a PO2F2 content of 20 to 65 weight percent, a PO3F content of one weight percent or less, and a PO4 content of one weight percent or less on the basis of the difference obtained by subtracting the weight of a metal element from the total weight.",
+    "12. A nonaqueous electrolyte solution for secondary batteries, containing a nonaqueous solvent and an electrolyte lithium salt dissolved therein,\nwherein the electrolyte lithium salt contains a hexafluorophosphate and a difluorophosphate and a portion of the difluorophosphate is at least one selected from the group consisting of a difluorophosphate produced by a method comprising a step of mixing LiPF6 with a source material containing at least one of a carbonate and a borate and then heating the mixture, a difluorophosphate produced by a method comprising a step of bringing a source gas into contact with a source material containing at least a carbonate and a borate, wherein the source gas contains at least one of a phosphorous compound consisting of P and F and a phosphorous compound consisting of P, F, and O, and a difluorophosphate composition having a PO2F2 content of 20 to 65 weight percent, a PO3F content of one weight percent or less, and a PO4 content of one weight percent or less on the basis of the difference obtained by subtracting the weight of a metal element from the total weight.",
+    "13. The nonaqueous electrolyte solution according to claim 12, wherein the concentration of the difluorophosphate in the nonaqueous electrolyte solution ranges from 1\u00d710\u22122 to 0.5 mol/kg.",
+    "14. The nonaqueous electrolyte solution according to claim 12, wherein the nonaqueous electrolyte solution contains at least one selected from the group consisting of ethylene carbonate, propylene carbonate, dimethyl carbonate, diethyl carbonate, and ethyl methyl carbonate.",
+    "15. A nonaqueous electrolyte solution for secondary batteries, containing a nonaqueous solvent, a hexafluorophosphate, difluorophosphate, and fluoride dissolved therein.",
+    "16. A nonaqueous electrolyte solution for secondary batteries, containing a nonaqueous solvent, a hexafluorophosphate, difluorophosphate, and carbon dioxide dissolved therein.",
+    "17. A nonaqueous electrolyte solution for secondary batteries, containing a nonaqueous solvent, a hexafluorophosphate, and lithium difluorophosphate dissolved therein, wherein the nonaqueous solvent contains a cyclic carbonate and a linear carbonate and is a solvent mixture of three or more types of nonaqueous solvent components.",
+    "18. The nonaqueous electrolyte solution according to claim 17, wherein the cyclic carbonate is at least one selected from the group consisting of ethylene carbonate, propylene carbonate, and butylene carbonate and the linear carbonate is at least one selected from the group consisting of dimethyl carbonate, diethyl carbonate, and ethyl methyl carbonate.",
+    "19. The nonaqueous electrolyte solution according to claim 17, wherein the nonaqueous solvent contains ethylene carbonate, dimethyl carbonate, and diethyl carbonate.",
+    "20. The nonaqueous electrolyte solution according to claim 17, wherein the nonaqueous solvent contains ethylene carbonate, dimethyl carbonate, and ethyl methyl carbonate.",
+    "21. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 12.",
+    "22. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 15.",
+    "23. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 16.",
+    "24. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 17.",
+    "25. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 12 and at least one of the following conditions is satisfied:\n(i) the sum of the electrode areas of the positive electrode is 20 times or more greater than the surface area of a cover of the secondary battery; (ii) the secondary battery has a direct current resistance of less than ten milliohms (m\u03a9); and (iii) the electrical capacity of a battery cell housed in a battery cover of the secondary battery is three ampere-hours (Ah) or more.",
+    "26. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 15 and at least one of the following conditions is satisfied:\n(i) the sum of the electrode areas of the positive electrode is 20 times or more greater than the surface area of a cover of the secondary battery; (ii) the secondary battery has a direct current resistance of less than ten milliohms (m\u03a9); and (iii) the electrical capacity of a battery cell housed in a battery cover of the secondary battery is three ampere-hours (Ah) or more.",
+    "27. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 16 and at least one of the following conditions is satisfied:\n(i) the sum of the electrode areas of the positive electrode is 20 times or more greater than the surface area of a cover of the secondary battery; (ii) the secondary battery has a direct current resistance of less than ten milliohms (m\u03a9); and (iii) the electrical capacity of a battery cell housed in a battery cover of the secondary battery is three ampere-hours (Ah) or more.",
+    "28. A nonaqueous electrolyte secondary battery comprising a nonaqueous electrolyte solution, a negative electrode that can be inserted and deserted lithium ions, and a positive electrode, wherein the nonaqueous electrolyte solution is as specified in claim 17 and at least one of the following conditions is satisfied:\n(i) the sum of the electrode areas of the positive electrode is 20 times or more greater than the surface area of a cover of the secondary battery; (ii) the secondary battery has a direct current resistance of less than ten milliohms (m\u03a9); and (iii) the electrical capacity of a battery cell housed in a battery cover of the secondary battery is three ampere-hours (Ah) or more."
+  ],
+  "child_applications": [
+    {
+      "application_number": "US13/053,874",
+      "relation_type": "Division",
+      "representative_publication": "US8137848B2",
+      "primary_language": "en",
+      "priority_date": "2004-10-19",
+      "filing_date": "2011-03-22",
+      "title": "Method for producing difluorophosphate, nonaqueous electrolyte solution for secondary batteries, and nonaqueous electrolyte secondary battery"
+    }
+  ],
+  "parent_applications": [
+    {
+      "application_number": "PCT/JP2005/019105",
+      "relation_type": "A-371-Of-International",
+      "representative_publication": "WO2006043538A1",
+      "primary_language": "en",
+      "priority_date": "2004-10-19",
+      "filing_date": "2005-10-18",
+      "title": "Method for producing difluorophosphate, nonaqueous electrolyte solution for secondary battery and nonaqueous electrolyte secondary battery"
+    }
+  ],
+  "applications_claiming_priority": [
+    {
+      "application_number": "JP2004304487",
+      "filing_date": "2004-10-19"
+    },
+    {
+      "application_number": "JP2004-304487",
+      "filing_date": "2004-10-19"
+    },
+    {
+      "application_number": "PCT/JP2005/019105",
+      "representative_publication": "WO2006043538A1",
+      "primary_language": "en",
+      "priority_date": "2004-10-19",
+      "filing_date": "2005-10-18",
+      "title": "Method for producing difluorophosphate, nonaqueous electrolyte solution for secondary battery and nonaqueous electrolyte secondary battery"
+    }
+  ],
+  "family_id": "36202953",
+  "patent_citations": {
+    "original": [
+      {
+        "publication_number": "US2846412A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1956-10-22",
+        "publication_date": "1958-08-05",
+        "assignee_original": "Dow Chemical Co",
+        "title": "Chloroethylene polymer stabilized with mono and difluorophosphoric acid salts",
+        "patent_id": "patent/US2846412A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS2846412A%2Fen"
+      },
+      {
+        "publication_number": "US5393506A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1990-12-24",
+        "publication_date": "1995-02-28",
+        "assignee_original": "Kali-Chemie Aktiengesellschaft",
+        "title": "Method for the manufacturing of alkali monofluorophosphate",
+        "patent_id": "patent/US5393506A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS5393506A%2Fen"
+      },
+      {
+        "publication_number": "US6210830B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-10-05",
+        "publication_date": "2001-04-03",
+        "assignee_original": "Merck Patent Gesellschaft Mit Beschrankter Haftung",
+        "title": "Lithium fluorophosphates and their use as conducting salts",
+        "patent_id": "patent/US6210830B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS6210830B1%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JPS58181710A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1982-04-13",
+        "publication_date": "1983-10-24",
+        "assignee_original": "Central Glass Co Ltd",
+        "title": "Manufacture of alkali monofluorophosphate",
+        "patent_id": "patent/JPS58181710A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJPS58181710A%2Fen"
+      },
+      {
+        "publication_number": "JP3111447B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "1996-11-08",
+        "publication_date": "2000-11-20",
+        "assignee_original": "\u5b87\u90e8\u8208\u7523\u682a\u5f0f\u4f1a\u793e",
+        "title": "Electrolyte for lithium secondary battery",
+        "patent_id": "patent/JP3111447B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3111447B2%2Fen"
+      },
+      {
+        "publication_number": "JP3439085B2",
+        "primary_language": "en",
+        "priority_date": "1997-08-21",
+        "publication_date": "2003-08-25",
+        "assignee_original": "\u4e09\u6d0b\u96fb\u6a5f\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP3439085B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP3439085B2%2Fen"
+      },
+      {
+        "publication_number": "JP4233819B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2002-06-25",
+        "publication_date": "2009-03-04",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP4233819B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4233819B2%2Fen"
+      },
+      {
+        "publication_number": "US8980214B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-20",
+        "publication_date": "2015-03-17",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Method for producing difluorophosphate, non-aqueous electrolyte for secondary cell and non-aqueous electrolyte secondary cell",
+        "patent_id": "patent/US8980214B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8980214B2%2Fen"
+      },
+      {
+        "publication_number": "US20090286155A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2006-08-22",
+        "publication_date": "2009-11-19",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Lithium difluorophosphate, electrolyte containing lithium difluorophosphate, process for producing lithium difluorophosphate, process for producing nonaqueous electrolyte, nonaqueous electrolyte, and nonaqueous electrolyte secondary battery containing the same",
+        "patent_id": "patent/US20090286155A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20090286155A1%2Fen"
+      }
+    ]
+  },
+  "cited_by": {
+    "original": [
+      {
+        "publication_number": "US20080305402A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2005-06-20",
+        "publication_date": "2008-12-11",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Method for Producing Difluorophosphate, Non-Aqueous Electrolyte for Secondary Cell and Non-Aqueous Electrolyte Secondary Cell",
+        "patent_id": "patent/US20080305402A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20080305402A1%2Fen"
+      },
+      {
+        "publication_number": "US20100099031A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-20",
+        "publication_date": "2010-04-22",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytes and nonaqueous-electrolyte secondary batteries employing the same",
+        "patent_id": "patent/US20100099031A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100099031A1%2Fen"
+      },
+      {
+        "publication_number": "US20100119956A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-05",
+        "publication_date": "2010-05-13",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolyte for secondary battery and nonaqueous-electrolyte secondary battery employing the same",
+        "patent_id": "patent/US20100119956A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100119956A1%2Fen"
+      },
+      {
+        "publication_number": "US20100270631A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-12-17",
+        "publication_date": "2010-10-28",
+        "assignee_original": "Nxp B.V.",
+        "title": "Mems microphone",
+        "patent_id": "patent/US20100270631A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100270631A1%2Fen"
+      },
+      {
+        "publication_number": "US20100323240A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-03-12",
+        "publication_date": "2010-12-23",
+        "assignee_original": "Central Glass Company, Limited",
+        "title": "Method for Producing Lithium Difluorophosphate and Nonaqueous Electrolyte Battery Using the Same",
+        "patent_id": "patent/US20100323240A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20100323240A1%2Fen"
+      },
+      {
+        "publication_number": "US20110111288A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-02",
+        "publication_date": "2011-05-12",
+        "assignee_original": "Stella Chemifa Corporation",
+        "title": "Production process of difluorophosphate, nonaqueous electrolytic solution and nonaqueous electrolytic secondary battery",
+        "patent_id": "patent/US20110111288A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20110111288A1%2Fen"
+      },
+      {
+        "publication_number": "US20120009452A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-09-01",
+        "publication_date": "2012-01-12",
+        "assignee_original": "Hitachi Vehicle Energy, Ltd.",
+        "title": "Nonaqueous electrolyte secondary battery",
+        "patent_id": "patent/US20120009452A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20120009452A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012004188A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-08",
+        "publication_date": "2012-01-12",
+        "assignee_original": "Solvay Sa",
+        "title": "Manufacture of lipo2f2 and crystalline lipo2f2",
+        "patent_id": "patent/WO2012004188A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012004188A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012016924A1",
+        "primary_language": "en",
+        "priority_date": "2010-08-04",
+        "publication_date": "2012-02-09",
+        "assignee_original": "Solvay Sa",
+        "title": "Manufacture of lipo2f2 from pof3 or pf5",
+        "patent_id": "patent/WO2012016924A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012016924A1%2Fen"
+      },
+      {
+        "publication_number": "WO2012004187A3",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-07-08",
+        "publication_date": "2012-03-08",
+        "assignee_original": "Solvay Sa",
+        "title": "Manufacture of lipo2f2",
+        "patent_id": "patent/WO2012004187A3/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012004187A3%2Fen"
+      },
+      {
+        "publication_number": "EP2408051A4",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2009-04-22",
+        "publication_date": "2012-09-19",
+        "assignee_original": "Central Glass Co Ltd",
+        "title": "Electrolyte for electrochemical device, electrolyte solution using same, and nonaqueous electrolyte battery",
+        "patent_id": "patent/EP2408051A4/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2408051A4%2Fen"
+      },
+      {
+        "publication_number": "WO2012146525A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-04-26",
+        "publication_date": "2012-11-01",
+        "assignee_original": "Solvay Sa",
+        "title": "Lithium air battery cell",
+        "patent_id": "patent/WO2012146525A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2012146525A1%2Fen"
+      },
+      {
+        "publication_number": "WO2013023902A1",
+        "primary_language": "en",
+        "priority_date": "2011-08-16",
+        "publication_date": "2013-02-21",
+        "assignee_original": "Solvay Sa",
+        "title": "Manufacture of mixtures comprising lipo2f2 and lipf6",
+        "patent_id": "patent/WO2013023902A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2013023902A1%2Fen"
+      },
+      {
+        "publication_number": "EP2573855A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-20",
+        "publication_date": "2013-03-27",
+        "assignee_original": "Mitsubishi Chemical Corporation",
+        "title": "Nonaqueous electrolytes and nonaqueous-electrolyte secondary battery employing the same",
+        "patent_id": "patent/EP2573855A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP2573855A1%2Fen"
+      },
+      {
+        "publication_number": "US20130244118A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2010-11-26",
+        "publication_date": "2013-09-19",
+        "assignee_original": "Hiroshi Onizuka",
+        "title": "Negative electrode active material for lithium ion secondary battery",
+        "patent_id": "patent/US20130244118A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20130244118A1%2Fen"
+      },
+      {
+        "publication_number": "US20140099555A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-10-09",
+        "publication_date": "2014-04-10",
+        "assignee_original": "Toyota Jidosha Kabushiki Kaisha",
+        "title": "Nonaqueous electrolytic solution secondary battery and method of manufacturing the battery",
+        "patent_id": "patent/US20140099555A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140099555A1%2Fen"
+      },
+      {
+        "publication_number": "US20140154579A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2011-07-29",
+        "publication_date": "2014-06-05",
+        "assignee_original": "Koji Takahata",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/US20140154579A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20140154579A1%2Fen"
+      },
+      {
+        "publication_number": "US20160075557A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-06-07",
+        "publication_date": "2016-03-17",
+        "assignee_original": "Stella Chemifa Corporation",
+        "title": "Method for purifying difluorophosphate",
+        "patent_id": "patent/US20160075557A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160075557A1%2Fen"
+      },
+      {
+        "publication_number": "US10622678B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-07-15",
+        "publication_date": "2020-04-14",
+        "assignee_original": "Nec Corporation",
+        "title": "Lithium ion secondary battery",
+        "patent_id": "patent/US10622678B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10622678B2%2Fen"
+      },
+      {
+        "publication_number": "CN111224164A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-12-13",
+        "publication_date": "2020-06-02",
+        "assignee_original": "\u4e5d\u6c5f\u5929\u8d50\u9ad8\u65b0\u6750\u6599\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of lithium difluorophosphate",
+        "patent_id": "patent/CN111224164A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111224164A%2Fen"
+      },
+      {
+        "publication_number": "EP3930043A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-17",
+        "publication_date": "2021-12-29",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Nonaqueous electrolyte, nonaqueous secondary battery, cell pack, and hybrid system",
+        "patent_id": "patent/EP3930043A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3930043A1%2Fen"
+      },
+      {
+        "publication_number": "US11515567B2",
+        "primary_language": "en",
+        "priority_date": "2017-03-17",
+        "publication_date": "2022-11-29",
+        "assignee_original": "Asahi Kasei Kabushiki Kaisha",
+        "title": "Non-aqueous electrolyte solution, non-aqueous secondary battery, cell pack, and hybrid power system",
+        "patent_id": "patent/US11515567B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS11515567B2%2Fen"
+      },
+      {
+        "publication_number": "US20230024426A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-03-30",
+        "publication_date": "2023-01-26",
+        "assignee_original": "Murata Manufacturing Co., Ltd.",
+        "title": "Secondary battery",
+        "patent_id": "patent/US20230024426A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20230024426A1%2Fen"
+      },
+      {
+        "publication_number": "CN116332150A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-03-23",
+        "publication_date": "2023-06-27",
+        "assignee_original": "\u5b89\u9633\u5de5\u5b66\u9662",
+        "title": "Combined preparation method of lithium difluorophosphate and lithium tetrafluoroborate",
+        "patent_id": "patent/CN116332150A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN116332150A%2Fen"
+      }
+    ],
+    "family_to_family": [
+      {
+        "publication_number": "JP5228270B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2004-10-19",
+        "publication_date": "2013-07-03",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing difluorophosphate, non-aqueous electrolyte for secondary battery, and non-aqueous electrolyte secondary battery",
+        "patent_id": "patent/JP5228270B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5228270B2%2Fen"
+      },
+      {
+        "publication_number": "JP2008258013A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2007-04-05",
+        "publication_date": "2008-10-23",
+        "assignee_original": "Mitsubishi Chemicals Corp",
+        "title": "Non-aqueous electrolyte and non-aqueous electrolyte secondary battery using the same",
+        "patent_id": "patent/JP2008258013A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP2008258013A%2Fen"
+      },
+      {
+        "publication_number": "JP5504616B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2008-12-02",
+        "publication_date": "2014-05-28",
+        "assignee_original": "\u4e09\u83f1\u5316\u5b66\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing non-aqueous electrolyte for secondary battery",
+        "patent_id": "patent/JP5504616B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5504616B2%2Fen"
+      },
+      {
+        "publication_number": "JP6184200B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-04",
+        "publication_date": "2017-08-23",
+        "assignee_original": "\u682a\u5f0f\u4f1a\u793e\u6771\u829d",
+        "title": "Non-aqueous electrolyte secondary battery and manufacturing method thereof",
+        "patent_id": "patent/JP6184200B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6184200B2%2Fen"
+      },
+      {
+        "publication_number": "JP5893522B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-07-06",
+        "publication_date": "2016-03-23",
+        "assignee_original": "\u95a2\u6771\u96fb\u5316\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing lithium dihalogenophosphate",
+        "patent_id": "patent/JP5893522B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5893522B2%2Fen"
+      },
+      {
+        "publication_number": "KR101370619B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2012-11-06",
+        "publication_date": "2014-03-06",
+        "assignee_original": "\ub9ac\ucf10\uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "A preperation of lithium difluoro phosphate, lithium tetrafluoro phosphite or lithium difluoro borate using lithium oxide",
+        "patent_id": "patent/KR101370619B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101370619B1%2Fen"
+      },
+      {
+        "publication_number": "CN103259040B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-03-25",
+        "publication_date": "2016-01-13",
+        "assignee_original": "\u4e2d\u5c71\u5e02\u534e\u73ae\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Organotin fluoride is utilized to prepare the method for high-purity lithium difluorophosphate",
+        "patent_id": "patent/CN103259040B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN103259040B%2Fen"
+      },
+      {
+        "publication_number": "KR20150078690A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2013-12-31",
+        "publication_date": "2015-07-08",
+        "assignee_original": "\uc0bc\uc131\uc815\ubc00\ud654\ud559 \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "a non-aqueous electrolyte for lithium secondary battery and lithium secondary battery including the same",
+        "patent_id": "patent/KR20150078690A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20150078690A%2Fen"
+      },
+      {
+        "publication_number": "JP6093488B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-07-31",
+        "publication_date": "2017-03-08",
+        "assignee_original": "\u95a2\u6771\u96fb\u5316\u5de5\u696d\u682a\u5f0f\u4f1a\u793e",
+        "title": "Method for producing difluorophosphate",
+        "patent_id": "patent/JP6093488B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP6093488B2%2Fen"
+      },
+      {
+        "publication_number": "CN104445133B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2014-10-13",
+        "publication_date": "2016-04-27",
+        "assignee_original": "\u6d59\u6c5f\u51ef\u5723\u6c1f\u5316\u5b66\u6709\u9650\u516c\u53f8",
+        "title": "A kind of preparation method of difluorophosphate and non-aqueous electrolyte for lithium ion cell thereof",
+        "patent_id": "patent/CN104445133B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN104445133B%2Fen"
+      },
+      {
+        "publication_number": "CN105236368B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2015-09-10",
+        "publication_date": "2017-07-18",
+        "assignee_original": "\u5929\u6d25\u91d1\u725b\u7535\u6e90\u6750\u6599\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "A kind of preparation method of difluorophosphoric acid alkali metal salt",
+        "patent_id": "patent/CN105236368B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN105236368B%2Fen"
+      },
+      {
+        "publication_number": "WO2018144480A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-01-31",
+        "publication_date": "2018-08-09",
+        "assignee_original": "Synthio Chemicals, LLC",
+        "title": "Method for producing a hygroscopic alkali metal salt electrolyte solution",
+        "patent_id": "patent/WO2018144480A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2018144480A1%2Fen"
+      },
+      {
+        "publication_number": "CN106829910A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-03-29",
+        "publication_date": "2017-06-13",
+        "assignee_original": "\u4e1c\u8425\u77f3\u5927\u80dc\u534e\u65b0\u80fd\u6e90\u6709\u9650\u516c\u53f8",
+        "title": "A kind of preparation method of difluorophosphate",
+        "patent_id": "patent/CN106829910A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106829910A%2Fen"
+      },
+      {
+        "publication_number": "CN107381531A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-08-23",
+        "publication_date": "2017-11-24",
+        "assignee_original": "\u4e2d\u5c71\u5927\u5b66",
+        "title": "A kind of preparation method of difluorophosphate",
+        "patent_id": "patent/CN107381531A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN107381531A%2Fen"
+      },
+      {
+        "publication_number": "WO2019061802A1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2017-09-27",
+        "publication_date": "2019-04-04",
+        "assignee_original": "\u60e0\u5dde\u5e02\u5927\u9053\u65b0\u6750\u6599\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Method for preparing lithium difluorophosphate",
+        "patent_id": "patent/WO2019061802A1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FWO2019061802A1%2Fen"
+      },
+      {
+        "publication_number": "CN109411820A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-11-06",
+        "publication_date": "2019-03-01",
+        "assignee_original": "\u5e7f\u4e1c\u4f73\u7eb3\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Electrolyte and its preparation method and application, lithium ion battery and its application",
+        "patent_id": "patent/CN109411820A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109411820A%2Fen"
+      },
+      {
+        "publication_number": "US10923765B2",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2018-12-31",
+        "publication_date": "2021-02-16",
+        "assignee_original": "Robert Bosch Gmbh",
+        "title": "Lithium conducting ceramic oxide decontamination method",
+        "patent_id": "patent/US10923765B2/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10923765B2%2Fen"
+      },
+      {
+        "publication_number": "CN109935908B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2019-04-02",
+        "publication_date": "2022-02-08",
+        "assignee_original": "\u5408\u80a5\u5de5\u4e1a\u5927\u5b66",
+        "title": "Low-concentration lithium salt electrolyte and lithium secondary battery comprising same",
+        "patent_id": "patent/CN109935908B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN109935908B%2Fen"
+      },
+      {
+        "publication_number": "CN111924860A",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2020-09-14",
+        "publication_date": "2020-11-13",
+        "assignee_original": "\u6e56\u5357\u535a\u4fe1\u65b0\u80fd\u6e90\u79d1\u6280\u6709\u9650\u516c\u53f8",
+        "title": "Preparation method of composite lithium salt concentrated solution",
+        "patent_id": "patent/CN111924860A/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN111924860A%2Fen"
+      },
+      {
+        "publication_number": "CN113845101B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-05-20",
+        "publication_date": "2024-02-02",
+        "assignee_original": "\u6df1\u5733\u5e02\u7814\u4e00\u65b0\u6750\u6599\u6709\u9650\u8d23\u4efb\u516c\u53f8",
+        "title": "Lithium difluorophosphate and preparation method and application thereof",
+        "patent_id": "patent/CN113845101B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN113845101B%2Fen"
+      },
+      {
+        "publication_number": "CN114005967B",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2021-09-29",
+        "publication_date": "2023-06-02",
+        "assignee_original": "\u5408\u80a5\u56fd\u8f69\u9ad8\u79d1\u52a8\u529b\u80fd\u6e90\u6709\u9650\u516c\u53f8",
+        "title": "Lithium battery negative electrode material and preparation method thereof",
+        "patent_id": "patent/CN114005967B/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN114005967B%2Fen"
+      },
+      {
+        "publication_number": "KR102596526B1",
+        "primary_language": "en",
+        "examiner_cited": "*",
+        "priority_date": "2023-02-28",
+        "publication_date": "2023-10-31",
+        "assignee_original": "\uc774\ud53c\ucea0\ud14d \uc8fc\uc2dd\ud68c\uc0ac",
+        "title": "Manufactuiring method for crystallization of lithium difluorophosphate and Crystallization of lithium difluorophosphate",
+        "patent_id": "patent/KR102596526B1/en",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR102596526B1%2Fen"
+      }
+    ]
+  },
+  "similar_documents": [
+    {
+      "is_patent": true,
+      "publication_number": "US8076033B2",
+      "primary_language": "en",
+      "publication_date": "2011-12-13",
+      "title": "Method for producing difluorophosphate, nonaqueous electrolyte solution for secondary battery and nonaqueous electrolyte secondary battery",
+      "patent_id": "patent/US8076033B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8076033B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US8980214B2",
+      "primary_language": "en",
+      "publication_date": "2015-03-17",
+      "title": "Method for producing difluorophosphate, non-aqueous electrolyte for secondary cell and non-aqueous electrolyte secondary cell",
+      "patent_id": "patent/US8980214B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS8980214B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR101702818B1",
+      "primary_language": "en",
+      "publication_date": "2017-02-22",
+      "title": "Active material, nonaqueous electrolyte battery, and battery pack",
+      "patent_id": "patent/KR101702818B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR101702818B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP7116314B2",
+      "primary_language": "en",
+      "publication_date": "2022-08-10",
+      "title": "Electrolyte for non-aqueous electrolyte battery and non-aqueous electrolyte battery using the same",
+      "patent_id": "patent/JP7116314B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP7116314B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN102803134B",
+      "primary_language": "en",
+      "publication_date": "2015-09-30",
+      "title": "Pyrophosphate salt compound and manufacture method thereof",
+      "patent_id": "patent/CN102803134B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN102803134B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "CN106953067B",
+      "primary_language": "en",
+      "publication_date": "2020-03-27",
+      "title": "Electrode, nonaqueous electrolyte battery, battery pack, and vehicle",
+      "patent_id": "patent/CN106953067B/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FCN106953067B%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "EP3113253B1",
+      "primary_language": "en",
+      "publication_date": "2019-04-10",
+      "title": "Positive electrode mixture and nonaqueous electrolyte secondary cell",
+      "patent_id": "patent/EP3113253B1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FEP3113253B1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "KR20180014710A",
+      "primary_language": "en",
+      "publication_date": "2018-02-09",
+      "title": "Negative electrode active material for non-aqueous electrolyte secondary battery, negative electrode for non-aqueous electrolyte secondary battery, and non-aqueous electrolyte secondary battery and method for manufacturing negative active material particle",
+      "patent_id": "patent/KR20180014710A/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FKR20180014710A%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10411265B2",
+      "primary_language": "en",
+      "publication_date": "2019-09-10",
+      "title": "Lithium ion secondary battery and method of manufacturing same",
+      "patent_id": "patent/US10411265B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10411265B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US10991940B2",
+      "primary_language": "en",
+      "publication_date": "2021-04-27",
+      "title": "Graphite-based material for lithium ion secondary batteries and method for producing the same, and negative electrode and lithium ion secondary battery",
+      "patent_id": "patent/US10991940B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS10991940B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "US20160190651A1",
+      "primary_language": "en",
+      "publication_date": "2016-06-30",
+      "title": "Nonaqueous electrolyte battery and battery pack",
+      "patent_id": "patent/US20160190651A1/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FUS20160190651A1%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP5228270B2",
+      "primary_language": "en",
+      "publication_date": "2013-07-03",
+      "title": "Method for producing difluorophosphate, non-aqueous electrolyte for secondary battery, and non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JP5228270B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP5228270B2%2Fen"
+    },
+    {
+      "is_patent": true,
+      "publication_number": "JP4952080B2",
+      "primary_language": "en",
+      "publication_date": "2012-06-13",
+      "title": "Non-aqueous electrolyte for secondary battery and non-aqueous electrolyte secondary battery",
+      "patent_id": "patent/JP4952080B2/en",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_patents_details&patent_id=patent%2FJP4952080B2%2Fen"
+    }
+  ],
+  "legal_events": [
+    {
+      "date": "2007-11-28",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KATO, RYOICHI;SUZUKI, HITOSHI;REEL/FRAME:020171/0779;SIGNING DATES FROM 20070403 TO 20070416"
+        },
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KATO, RYOICHI;SUZUKI, HITOSHI;SIGNING DATES FROM 20070403 TO 20070416;REEL/FRAME:020171/0779"
+        }
+      ]
+    },
+    {
+      "date": "2011-10-31",
+      "code": "FEPP",
+      "title": "Fee payment procedure",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        }
+      ]
+    },
+    {
+      "date": "2011-11-22",
+      "code": "STCF",
+      "title": "Information on status: patent grant",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PATENTED CASE"
+        }
+      ]
+    },
+    {
+      "date": "2015-05-27",
+      "code": "FPAY",
+      "title": "Fee payment",
+      "attributes": [
+        {
+          "label": "Year of fee payment",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-04",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI RAYON CO., LTD., JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "MERGER;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:043750/0207"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170401"
+        }
+      ]
+    },
+    {
+      "date": "2017-09-05",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "CHANGE OF NAME;ASSIGNOR:MITSUBISHI RAYON CO., LTD.;REEL/FRAME:043750/0834"
+        },
+        {
+          "label": "Effective date",
+          "value": "20170401"
+        }
+      ]
+    },
+    {
+      "date": "2019-05-30",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "date": "2020-12-10",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MU IONIC SOLUTIONS CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "SPLIT ASSIGNMENT;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:054678/0763"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201001"
+        }
+      ]
+    },
+    {
+      "date": "2021-02-16",
+      "code": "AS",
+      "title": "Assignment",
+      "attributes": [
+        {
+          "label": "Owner name",
+          "value": "MU IONIC SOLUTIONS CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE SPLIT ASSIGNEE INFORMATION PREVIOUSLY RECORDED AT REEL: 054678 FRAME: 0763. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:055304/0658"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201001"
+        },
+        {
+          "label": "Owner name",
+          "value": "MITSUBISHI CHEMICAL CORPORATION, JAPAN"
+        },
+        {
+          "label": "Free format text",
+          "value": "CORRECTIVE ASSIGNMENT TO CORRECT THE SPLIT ASSIGNEE INFORMATION PREVIOUSLY RECORDED AT REEL: 054678 FRAME: 0763. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT;ASSIGNOR:MITSUBISHI CHEMICAL CORPORATION;REEL/FRAME:055304/0658"
+        },
+        {
+          "label": "Effective date",
+          "value": "20201001"
+        }
+      ]
+    },
+    {
+      "date": "2023-05-31",
+      "code": "MAFP",
+      "title": "Maintenance fee payment",
+      "attributes": [
+        {
+          "label": "Free format text",
+          "value": "PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY"
+        },
+        {
+          "label": "Year of fee payment",
+          "value": "12"
+        }
+      ]
+    }
+  ]
+}
