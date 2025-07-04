@@ -192,7 +192,8 @@ Analysis completed and saved to: /results/patent_analysis_20250704_153000.txt
 1. **User Input**
    - User starts the CLI (`python agentic_rag.py`).
    - User enters the research area (e.g., "Lithium Battery") and selects the Ollama LLM model (e.g., "llama3").
-   - ![image](https://github.com/user-attachments/assets/9fb41f22-e27c-4b74-a3d5-6533a728e29b)
+     
+   ![image](https://github.com/user-attachments/assets/9fb41f22-e27c-4b74-a3d5-6533a728e29b)
 
 
 2. **Environment & Service Checks**
@@ -216,7 +217,8 @@ Analysis completed and saved to: /results/patent_analysis_20250704_153000.txt
 5. **Patent Search & Retrieval**
    - Agents use CrewAI tools to query OpenSearch for patents matching the research area and time window.
    - Results are grouped, summarized, and prepared for analysis.
-   - ![image](https://github.com/user-attachments/assets/a36b6fea-ea1d-447d-be68-c5af2dfad9d9)
+   
+    ![image](https://github.com/user-attachments/assets/a36b6fea-ea1d-447d-be68-c5af2dfad9d9)
 
 
 6. **Trend Analysis & Forecasting**
@@ -228,7 +230,8 @@ Analysis completed and saved to: /results/patent_analysis_20250704_153000.txt
 
 8. **User Review**
    - User reviews the saved report for insights, trends, and recommendations.
-   - ![image](https://github.com/user-attachments/assets/0c23db9e-3fb4-4be5-ace1-546de25f1458)
+   
+    ![image](https://github.com/user-attachments/assets/0c23db9e-3fb4-4be5-ace1-546de25f1458)
 
 
 ---
