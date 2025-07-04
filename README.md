@@ -275,5 +275,4 @@ CrewAI Agentic Pipeline:
    ↓
 Report Generation (.txt)
    ↓
-User Review#   P a t e n t S i g h t  
- 
+User Review#
