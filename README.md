@@ -4,24 +4,7 @@
 
 **Patent Innovation Predictor** is an intelligent multi-agent system designed to automate the analysis, retrieval, and forecasting of patent innovations. Built with **CrewAI**, **LangChain**, **Ollama**, and **OpenSearch**, the system enables powerful **Retrieval-Augmented Generation (RAG)** workflows tailored for patent data. It dynamically analyzes any research domain (e.g., lithium batteries, hydrogen storage, quantum computing) to uncover trends and predict future innovations.
 
----
 
-## 📊 System Architecture
-
-flowchart TD
-    A[User Input: Research Area & Model] --> B[Main Script: agentic_rag.py]
-    B --> C[Check Ollama & OpenSearch]
-    C --> D[Create CrewAI Agents & Tools]
-    D --> E[Task 1: Research Plan (Research Director)]
-    E --> F[Task 2: Patent Retrieval (Retriever)]
-    F --> G[Task 3: Trend Analysis (Data Analyst)]
-    G --> H[Task 4: Forecast Future Innovations (Forecaster)]
-    H --> I[Save Results to File in /results/]
-    F --> J[OpenSearch Patent Index]
-    D --> K[Ollama LLM (via LangChain)]
-```
-
----
 
 ## 📊 Key Features
 
@@ -209,6 +192,8 @@ Analysis completed and saved to: /results/patent_analysis_20250704_153000.txt
 1. **User Input**
    - User starts the CLI (`python agentic_rag.py`).
    - User enters the research area (e.g., "Lithium Battery") and selects the Ollama LLM model (e.g., "llama3").
+   - ![image](https://github.com/user-attachments/assets/9fb41f22-e27c-4b74-a3d5-6533a728e29b)
+
 
 2. **Environment & Service Checks**
    - Script checks if Ollama (LLM server) and OpenSearch (vector DB) are running and accessible.
@@ -231,6 +216,8 @@ Analysis completed and saved to: /results/patent_analysis_20250704_153000.txt
 5. **Patent Search & Retrieval**
    - Agents use CrewAI tools to query OpenSearch for patents matching the research area and time window.
    - Results are grouped, summarized, and prepared for analysis.
+   - ![image](https://github.com/user-attachments/assets/a36b6fea-ea1d-447d-be68-c5af2dfad9d9)
+
 
 6. **Trend Analysis & Forecasting**
    - Data Analyst agent identifies innovation trends, key companies, and emerging technologies.
@@ -241,6 +228,8 @@ Analysis completed and saved to: /results/patent_analysis_20250704_153000.txt
 
 8. **User Review**
    - User reviews the saved report for insights, trends, and recommendations.
+   - ![image](https://github.com/user-attachments/assets/0c23db9e-3fb4-4be5-ace1-546de25f1458)
+
 
 ---
 
