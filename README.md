@@ -73,7 +73,6 @@
 
 ```bash
 git clone <repo-url>
-cd Ai_Agent
 ```
 
 ### 2. Set Up Virtual Environment
